@@ -2,9 +2,9 @@
 <pretext>
     <book>
         <part>
-            <title>BrailleNote Apex</title>
+            <title>Braille Note Takers</title>
             <chapter>
-                <title>School Skills Lessons</title>
+                <title>BrailleNote Apex "School Skills" Lessons</title>
                 <p>These lessons are structured more as a list of skills that should be explored in each lesson. This is so the teacher has the freedom to develop lessons that are specifically catered to the preferences of each student</p>
                 <section>
                     <title>Create a New Document</title>
@@ -8474,9 +8474,39 @@
                     </subsection>
                 </section>
             </chapter>
+            <chapter>
+                <title>BrailleNote Touch -- IN PROGRESS</title>
+            </chapter>
+            <chapter>
+                <title>BrailleSense -- IN PROGRESS</title>
+            </chapter>
         </part>
         <part>
-            <title>BrailleNote Touch -- IN PROGRESS</title>
+            <title>Screen Readers on Windows 10</title>
+            <chapter>
+                <title>JAWS -- IN PROGRESS</title>
+            </chapter>
+            <chapter>
+                <title>NVDA -- IN PROGRESS</title>
+            </chapter>
+        </part>
+        <part>
+            <title>VoiceOver on iOS and MacOS</title>
+            <chapter>
+                <title>NVDA -- IN PROGRESS</title>
+            </chapter>
+        </part>
+        <part>
+            <title>Refreshable Braille Display with Screen Reader</title>
+            <chapter>
+                <title>JAWS -- IN PROGRESS</title>
+            </chapter>
+            <chapter>
+                <title>NVDA -- IN PROGRESS</title>
+            </chapter>
+            <chapter>
+                <title>VoiceOver on iOS / iPad OS -- IN PROGRESS</title>
+            </chapter>
         </part>
     </book>
 </pretext>
