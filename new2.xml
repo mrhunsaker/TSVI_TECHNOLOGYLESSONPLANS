@@ -357,14 +357,14 @@
                         <ol>
                             <li>
                                 <p> Method 1 From File Manager</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> Begin at Main Menu <em> space + dots123456 </em></p>
                                 </li>
                                 <li>
                                     <p> Open File Manager</p>
-                                </li>
+                                
                                 <ul>
                                     <li>
                                         <p> Move down options to File Manager <em> space, enter </em></p>
@@ -372,10 +372,10 @@
                                     <li>
                                         <p> Direct selection of File Manager <em> letter f </em></p>
                                     </li>
-                                </ul>
+                                </ul></li>
                                 <li>
                                     <p> Open Folder Manager</p>
-                                </li>
+                                
                                 <ul>
                                     <li>
                                         <p> Move down options to Folder Manager <em> space, enter </em></p>
@@ -383,13 +383,13 @@
                                     <li>
                                         <p> Direct selection of Folder Manager <em> letter f </em></p>
                                     </li>
-                                </ul>
+                                </ul></li>
                                 <li>
                                     <p> Move down options to new folder <em> space, enter </em></p>
                                 </li>
                                 <li>
                                     <p> "Create folder on which drive?" is displayed. "Flash disk" is displayed. The flash disk is the BrailleNote, added memory is "SD Card"</p>
-                                </li>
+                                
                                 <ul>
                                     <li>
                                         <p> Move down options to SD card or Flash Disk <em> space, enter </em></p>
@@ -397,7 +397,7 @@
                                     <li>
                                         <p> Select most recently used drive <em> enter  </em></p>
                                     </li>
-                                </ul>
+                                </ul></li>
                                 <li>
                                     <p> BrailleNote displays, "new folder name?" Begin writing a name for the folder.</p>
                                 </li>
@@ -412,7 +412,7 @@
                                 </li>
                                 <li>
                                     <p> To leave the Folder Manager</p>
-                                </li>
+                                
                                 <ul>
                                     <li>
                                         <p> Exit and return to last level <em> space + e </em></p>
@@ -420,14 +420,14 @@
                                     <li>
                                         <p> To return to the main menu <em> space + dots123456 </em></p>
                                     </li>
-                                </ul>
+                                </ul></li>
                                 <li>
                                     <p> Practice as needed.</p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> Method 2 From Word Processor</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> Begin at the Main Menu <em> space + dots123456 </em></p>
@@ -459,10 +459,10 @@
                                 <li>
                                     <p> Practice as time allows or until the skill is mastered</p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> Control the Voice</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> Turn the volume up <em> enter + dot4 </em></p>
@@ -482,7 +482,7 @@
                                 <li>
                                     <p> Lower speech pitch <em> enter + dot2  </em></p>
                                 </li>
-                            </ol>
+                            </ol></li>
                         </ol>
                     </subsection>
                     <subsection>
@@ -530,7 +530,7 @@
                         <ol>
                             <li>
                                 <p> Check Power Status</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> Go to Options Menu <em> space + o </em></p>
@@ -538,10 +538,10 @@
                                 <li>
                                     <p> To get readout of power level <em> letter p </em></p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> Review Creating a New Document:</p>
-                            </li>
+                           
                             <ol>
                                 <li>
                                     <p> Turn on the BrailleNote <em> rocker on/off switch </em></p>
@@ -576,17 +576,17 @@
                                 <li>
                                     <p> If speech is on, BrailleNote will say, "top of document". You may begin writing in your new document.</p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> Navigate in and Edit the Document:</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> Delete last character <em> backspace </em></p>
                                 </li>
                                 <li>
                                     <p> To move around the document without speech <em> thumb-keys </em></p>
-                                </li>
+                                
                                 <ol>
                                     <li>
                                         <p> Move forward one display <em> advance thumb-key </em></p>
@@ -594,7 +594,7 @@
                                     <li>
                                         <p> Move backward one display <em> back thumb-key </em></p>
                                     </li>
-                                </ol>
+                                </ol></li>
                                 <li>
                                     <p> Move to top of document <em> space + dots123 </em></p>
                                 </li>
@@ -610,10 +610,10 @@
                                 <li>
                                     <p> Delete the character tot he left of the cursor <em> backspace  </em></p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> Try these additional commands within your document:</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> Move forward by word <em> space + dot5 </em></p>
@@ -642,7 +642,7 @@
                                 <li>
                                     <p> Read current line <em> space + dots14 </em></p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> Exit document <em> space + e </em></p>
                             </li>
@@ -700,7 +700,7 @@
                         <ol>
                             <li>
                                 <p> Delete a folder from within File Manager:</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> From Main Menu, open the File Manager <em> letter f </em></p>
@@ -713,7 +713,7 @@
                                 </li>
                                 <li>
                                     <p> "Erase folder on which drive?" is displayed.</p>
-                                </li>
+                                
                                 <ul>
                                     <li>
                                         <p> To toggle options for SD card or Flash disk <em> space, enter </em></p>
@@ -721,7 +721,7 @@
                                     <li>
                                         <p> To select most recently used disk <em> enter </em></p>
                                     </li>
-                                </ul>
+                                </ul></li>
                                 <li>
                                     <p> Toggle to folder to erase <em> space, enter </em></p>
                                 </li>
@@ -734,10 +734,10 @@
                                 <li>
                                     <p> Return to Folder Manager Menu <em> advance thumb-key </em></p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> Delete a File (Document) from the File Manager Menu:</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> From Main Menu, Open File Manager Menu <em>  press f </em></p>
@@ -747,7 +747,7 @@
                                 </li>
                                 <li>
                                     <p> "Erase file on which drive?" is displayed.</p>
-                                </li>
+                                
                                 <ul>
                                     <li>
                                         <p> To toggle options for SD card or Flash disk <em> space, enter </em></p>
@@ -755,7 +755,7 @@
                                     <li>
                                         <p> To select most recently used disk <em> enter </em></p>
                                     </li>
-                                </ul>
+                                </ul></li>
                                 <li>
                                     <p> To find folder containing file to be erased <em> space, enter. </em></p>
                                 </li>
@@ -771,10 +771,10 @@
                                 <li>
                                     <p> Repeat process as needed.</p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> Rename a Folder from within File Manager Menu:</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> Open File Manager <em> letter f </em></p>
@@ -799,7 +799,7 @@
                                 </li>
                                 <li>
                                     <p> Exit Menu</p>
-                                </li>
+                                
                                 <ul>
                                     <li>
                                         <p> Go back up one menu level <em> space + e </em></p>
@@ -807,11 +807,11 @@
                                     <li>
                                         <p> Return to Main Menu <em> space + dots123456 </em></p>
                                     </li>
-                                </ul>
-                            </ol>
+                                </ul></li>
+                            </ol></li>
                             <li>
                                 <p> Rename a File from File Manager Menu:</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> From Main Menu, Open File Manager <em> letter f  </em></p>
@@ -821,7 +821,7 @@
                                 </li>
                                 <li>
                                     <p> "Rename file on drive?" is displayed. To rename a file on the BrailleNote,</p>
-                                </li>
+                                
                                 <ul>
                                     <li>
                                         <p> To toggle options for SD card or Flash disk <em> space, enter </em></p>
@@ -829,7 +829,7 @@
                                     <li>
                                         <p> To select most recently used disk <em> enter </em></p>
                                     </li>
-                                </ul>
+                                </ul></li>
                                 <li>
                                     <p> Toggle down the list of folders to the one  that contains the file you want to rename <em> space, enter </em></p>
                                 </li>
@@ -845,10 +845,10 @@
                                 <li>
                                     <p> "File Manager Menu" is displayed.</p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> Hotkeys:</p>
-                            </li>
+                            
                             <ul>
                                 <li>
                                     <p> Open File Manager from anywhere on the BrailleNote <em> enter + backspace + f </em></p>
@@ -856,7 +856,7 @@
                                 <li>
                                     <p> Open Word Processor from anywhere on the BrailleNote <em> enter + backspace + w </em></p>
                                 </li>
-                            </ul>
+                            </ul></li>
                         </ol>
                     </subsection>
                     <subsection>
@@ -904,14 +904,14 @@
                         <ol>
                             <li>
                                 <p> Rename a Folder or Document:</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> Begin at Main Menu. Open Word Processor <em> letter w  </em></p>
                                 </li>
                                 <li>
                                     <p> Open a Document</p>
-                                </li>
+                                
                                 <ul>
                                     <li>
                                         <p> Toggle to find "Open a Document"  <em> space, enter </em></p>
@@ -919,7 +919,7 @@
                                     <li>
                                         <p> Directly select "Open a Document" <em> letter o </em></p>
                                     </li>
-                                </ul>
+                                </ul></li>
                                 <li>
                                     <p> Find folder you want to rename <em> space  </em></p>
                                 </li>
@@ -943,7 +943,7 @@
                                 </li>
                                 <li>
                                     <p> The process is the same for renaming a file.</p>
-                                </li>
+                                
                                 <ul>
                                     <li>
                                         <p> Focus on the document you want to rename from within the list.</p>
@@ -951,18 +951,18 @@
                                     <li>
                                         <p> Start rename process <em> backspace + r </em></p>
                                     </li>
-                                </ul>
-                            </ol>
+                                </ul></li>
+                            </ol></li>
                             <li>
                                 <p> Erase a Folder or Document:</p>
-                            </li>
+                           
                             <ol>
                                 <li>
                                     <p> Begin at Main Menu. Open Word Processor <em> letter w  </em></p>
                                 </li>
                                 <li>
                                     <p> Open a Document</p>
-                                </li>
+                                
                                 <ul>
                                     <li>
                                         <p> Toggle to find "Open a Document"  <em> space, enter </em></p>
@@ -970,7 +970,7 @@
                                     <li>
                                         <p> Directly select "Open a Document" <em> letter o </em></p>
                                     </li>
-                                </ul>
+                                </ul></li>
                                 <li>
                                     <p> Find folder you want to erase <em> space  </em></p>
                                 </li>
@@ -982,7 +982,7 @@
                                 </li>
                                 <li>
                                     <p> The process is the same for erasing a file.</p>
-                                </li>
+                                
                                 <ul>
                                     <li>
                                         <p> This process can only be completed from within a list.</p>
@@ -993,16 +993,68 @@
                                     <li>
                                         <p> Delete the file <em> backspace + 14 </em></p>
                                     </li>
-                                </ul>
-                            </ol>
+                                </ul></li>
+                            </ol></li>
                             <li>
                                 <p> Practice as needed.</p>
                             </li>
                         </ol>
                     </subsection>
                     <subsection>
-                        <title>Quiz</title>:
-<p>Write the letter of the best answer choice.</p><ol><li><p> What is the command to rename a document?</p></li><ol><li><p> enter + r</p></li><li><p> backspace + r</p></li><li><p> space + r</p></li><li><p> letter r</p></li></ol><li><p> Space + dots1 2 3 4 5 6 will .</p></li><ol><li><p> reset the BrailleNote.</p></li><li><p> back up by level.</p></li><li><p> return to Main Menu.</p></li><li><p> delete a folder.</p></li></ol><li><p> Press  to toggle among the speech modes.</p></li><ol><li><p> previous + next</p></li><li><p> space with a full cell</p></li><li><p> Previous with space</p></li><li><p> next with space</p></li></ol><li><p> How can you check the time?</p></li><ol><li><p> space + t</p></li><li><p> backspace + t</p></li><li><p> previous with space</p></li><li><p> backspace with t</p></li></ol><li><p> Enter with dot1 will .</p></li><ol><li><p> turn volume down</p></li><li><p> decrease rate</p></li><li><p> make the pitch lower</p></li><li><p> make the volume louder</p></li></ol><li><p> To decrease the rate, press .</p></li><ol><li><p> backspace + dot3</p></li><li><p> enter + dot6</p></li><li><p> enter + dot3</p></li><li><p> enter + dot2</p></li></ol><li><p> Enter + dot2 will .</p></li><ol><li><p> make the pitch higher</p></li><li><p> make the pitch lower</p></li><li><p> make the rate lower</p></li><li><p> make the volume lower</p></li></ol><li><p> In a document, how can you move back by word?</p></li><ol><li><p> space + dot3</p></li><li><p> space + dot1</p></li><li><p> space + dots25</p></li><li><p> space + dot2</p></li></ol><li><p> Space with dot6 in a document will </p></li><ol><li><p> read the current character.</p></li><li><p> read and move back by character</p></li><li><p> read forward by character</p></li><li><p> read forward by word</p></li></ol><li><p> O with space, then letter p will </p></li><ol><li><p> check the power status.</p></li><li><p> protect the BrailleNote.</p></li><li><p> move to previous word.</p></li><li><p> perform a reset.</p></li></ol></ol></subsection>
+                        <title>Quiz</title>
+<p>Write the letter of the best answer choice.</p>
+	<ol><li><p> What is the command to rename a document?</p>
+	<ol><li><p> enter + r</p></li>
+	<li><p> backspace + r</p></li>
+	<li><p> space + r</p></li><li><p> letter r</p></li></ol></li>
+<li><p> Space + dots1 2 3 4 5 6 will .</p>
+	<ol><li><p> reset the BrailleNote.</p></li>
+	<li><p> back up by level.</p></li>
+	<li><p> return to Main Menu.</p></li>
+	<li><p> delete a folder.</p></li></ol></li>
+<li><p> Press  to toggle among the speech modes.</p>
+	<ol><li><p> previous + next</p></li>
+	<li><p> space with a full cell</p></li>
+	<li><p> Previous with space</p></li>
+	<li><p> next with space</p></li></ol></li>
+<li><p> How can you check the time?</p>
+	<ol><li><p> space + t</p></li><li><p> backspace + t</p></li>
+	<li><p> previous with space</p></li>
+	<li><p> backspace with t</p></li></ol></li>
+<li><p> Enter with dot1 will .</p>
+	<ol><li><p> turn volume down</p></li>
+	<li><p> decrease rate</p></li>
+	<li><p> make the pitch lower</p></li>
+	<li><p> make the volume louder</p></li></ol></li>
+<li><p> To decrease the rate, press .</p>
+	<ol><li><p> backspace + dot3</p></li>
+	<li><p> enter + dot6</p></li>
+	<li><p> enter + dot3</p></li>
+	<li><p> enter + dot2</p></li></ol></li>
+<li><p> Enter + dot2 will .</p>
+	<ol><li><p> make the pitch higher</p></li>
+	<li><p> make the pitch lower</p></li>
+	<li><p> make the rate lower</p></li>
+	<li><p> make the volume lower</p></li></ol></li>
+<li><p> In a document, how can you move back by word?</p>
+	<ol><li><p> space + dot3</p></li>
+	<li><p> space + dot1</p></li>
+	<li><p> space + dots25</p></li>
+	<li><p> space + dot2</p></li></ol></li>
+<li><p> Space with dot6 in a document will </p>
+	<ol><li><p> read the current character.</p></li>
+	<li><p> read and move back by character</p></li>
+	<li><p> read forward by character</p></li>
+	<li><p> read forward by word</p></li></ol></li>
+<li><p> O with space, then letter p will </p>
+	<ol>
+	<li><p> check the power status.</p></li>
+	<li><p> protect the BrailleNote.</p></li>
+	<li><p> move to previous word.</p></li>
+	<li><p> perform a reset.</p></li>
+</ol></li></ol>
+
+</subsection>
                 </section>
                 <section>
                     <title>Calculator</title>
@@ -1012,11 +1064,11 @@
                         <ol>
                             <li>
                                 <p> Set UEB Code</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> Start Scientific Calculator</p>
-                                </li>
+                                
                                 <ul>
                                     <li>
                                         <p> From the Main Menu <em> letter s </em></p>
@@ -1024,7 +1076,7 @@
                                     <li>
                                         <p> From anywhere <em> backspace + enter + s </em></p>
                                     </li>
-                                </ul>
+                                </ul></li>
                                 <li>
                                     <p> Go to the Option Menu <em> space + o </em></p>
                                 </li>
@@ -1034,10 +1086,10 @@
                                 <li>
                                     <p> Select UEB as the braille code <em> letter e </em></p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> Explore Calculator Functions</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> Open calculator from Main Menu <em> letter s </em></p>
@@ -1065,7 +1117,7 @@
                                 </li>
                                 <li>
                                     <p> To clear the calculation</p>
-                                </li>
+                                
                                 <ul>
                                     <li>
                                         <p> Clear the calculation <em> backspace + dots14 </em></p>
@@ -1076,7 +1128,7 @@
                                     <li>
                                         <p> Clear the calculation<em> Scroll wheel down arrow </em></p>
                                     </li>
-                                </ul>
+                                </ul></li>
                                 <li>
                                     <p> Practice with math problems at your level</p>
                                 </li>
@@ -1088,7 +1140,7 @@
                                 </li>
                                 <li>
                                     <p> Alternate displaying the result or the whole calculation</p>
-                                </li>
+                                
                                 <ul>
                                     <li>
                                         <p> Clear the calculation <em> previous + next thumb-keys </em></p>
@@ -1096,19 +1148,30 @@
                                     <li>
                                         <p> Clear the calculation <em> scroll wheel left, right arrow </em></p>
                                     </li>
-                                </ul>
+                                </ul></li>
                                 <li>
                                     <p> To hear more commands, use context sensitive help <em> press space + h </em></p>
                                 </li>
                                 <li>
                                     <p> Practice as time.</p>
                                 </li>
-                            </ol>
+                            </ol></li>
                         </ol>
                     </subsection>
                     <subsection>
-                        <title>Quiz</title>:
-<p>Write or say the answer to each question.</p><ol><li><p> How can you change between displaying the result or the whole calculation?</p></li><li><p> What dots are used for the decimal?</p></li><li><p> What does space + dots356 do?</p></li><li><p> What will space + dots25 do in the calculator?</p></li><li><p> How can you delete the last key pressed?</p></li><li><p> In the calculator, what are dots5,34 used for?</p></li><li><p> What are the dots used for multiplication?</p></li><li><p> What dots are used for addition?</p></li><li><p> What are dots5,36 used for?</p></li><li><p> How can you get help from anywhere on the BrailleNote?</p></li></ol></subsection>
+                        <title>Quiz</title>
+<p>Write or say the answer to each question.</p>
+
+<ol><li><p> How can you change between displaying the result or the whole calculation?</p></li>
+<li><p> What dots are used for the decimal?</p></li><li><p> What does space + dots356 do?</p></li>
+<li><p> What will space + dots25 do in the calculator?</p></li>
+<li><p> How can you delete the last key pressed?</p></li>
+<li><p> In the calculator, what are dots5,34 used for?</p></li><li><p> What are the dots used for multiplication?</p></li>
+<li><p> What dots are used for addition?</p></li>
+<li><p> What are dots5,36 used for?</p></li>
+<li><p> How can you get help from anywhere on the BrailleNote?</p></li>
+</ol>
+</subsection>
                 </section>
                 <section>
                     <title>Open and Read a Book</title>
@@ -1127,7 +1190,7 @@
                             </li>
                             <li>
                                 <p> One way to read is by using the braille on the braille display.</p>
-                            </li>
+                            
                             <ul>
                                 <li>
                                     <p> Advance braille 1 display width <em> advance thumb-key </em></p>
@@ -1135,10 +1198,10 @@
                                 <li>
                                     <p> Move braille back 1 display width <em> back thumb-key </em></p>
                                 </li>
-                            </ul>
+                            </ul></li>
                             <li>
                                 <p> Automatic Reading Mode</p>
-                            </li>
+                            
                             <ul>
                                 <li>
                                     <p> Start automatic display movement <em> space + dots23456 </em></p>
@@ -1152,10 +1215,10 @@
                                 <li>
                                     <p> Stop automatic reading <em> previous + next </em></p>
                                 </li>
-                            </ul>
+                            </ul></li>
                             <li>
                                 <p> If you would rather use speech, you may use the review commands that you used to review any document</p>
-                            </li>
+                            
                             <ul>
                                 <li>
                                     <p> Forward reading <em> space + g </em></p>
@@ -1163,15 +1226,42 @@
                                 <li>
                                     <p> Stop reading <em> Backspace + space </em></p>
                                 </li>
-                            </ul>
+                            </ul></li>
                             <li>
                                 <p> Practice reading the book as time.</p>
                             </li>
                         </ol>
                     </subsection>
                     <subsection>
-                        <title>Quiz</title>:
-<p>Match the tasks in 1 through 10 with the commands below.</p><p>Tasks:</p><ol><li><p> Stop reading after space + g was used.</p></li><li><p> Start automatic reading with the braille display.</p></li><li><p> Increase rate of automatic reading with braille display</p></li><li><p> Top of file</p></li><li><p> Slow the rate of automatic reading.</p></li><li><p> Sentence back</p></li><li><p> Sentence forward</p></li><li><p> Bottom of file</p></li><li><p> Stop automatic reading.</p></li><li><p> Go forward reading</p></li></ol><p>Commands:</p><ol><li><p> space + g.</p></li><li><p> space + dot4</p></li><li><p> backspace + space</p></li><li><p> space + dots123 or scroll wheel left</p></li><li><p> Previous + next</p></li><li><p> space + dots23456</p></li><li><p> space + 456 or scroll wheel right</p></li><li><p> next</p></li><li><p> Previous</p></li><li><p> space + dot1</p></li></ol></subsection>
+                        <title>Quiz</title>
+<p>Match the tasks in 1 through 10 with the commands below.</p>
+<p>Tasks:</p>
+<ol>
+<li><p> Stop reading after space + g was used.</p></li>
+<li><p> Start automatic reading with the braille display.</p></li>
+<li><p> Increase rate of automatic reading with braille display</p></li>
+<li><p> Top of file</p></li>
+<li><p> Slow the rate of automatic reading.</p></li>
+<li><p> Sentence back</p></li>
+<li><p> Sentence forward</p></li>
+<li><p> Bottom of file</p></li>
+<li><p> Stop automatic reading.</p></li>
+<li><p> Go forward reading</p></li>
+</ol>
+<p>Commands:</p>
+<ol>
+<li><p> space + g.</p></li>
+<li><p> space + dot4</p></li>
+<li><p> backspace + space</p></li>
+<li><p> space + dots123 or scroll wheel left</p></li>
+<li><p> Previous + next</p></li>
+<li><p> space + dots23456</p></li>
+<li><p> space + 456 or scroll wheel right</p></li>
+<li><p> next</p></li>
+<li><p> Previous</p></li>
+<li><p> space + dot1</p></li>
+</ol>
+</subsection>
                 </section>
                 <section>
                     <title>Find Command</title>
@@ -1190,7 +1280,7 @@
                             </li>
                             <li>
                                 <p> BrailleNote displays, "search forward or back"</p>
-                            </li>
+                            
                             <ul>
                                 <li>
                                     <p> Search forward from the cursor <em> letter f </em></p>
@@ -1198,10 +1288,10 @@
                                 <li>
                                     <p> Search backward from the cursor <em> letter b </em></p>
                                 </li>
-                            </ul>
+                            </ul></li>
                             <li>
                                 <p> Type in the word or text string that you want to find.</p>
-                            </li>
+                            
                             <ul>
                                 <li>
                                     <p> Spelling must be exact (contracted and uncontracted UEB are different spellings)</p>
@@ -1209,7 +1299,7 @@
                                 <li>
                                     <p> Accept typed search string <em> enter </em></p>
                                 </li>
-                            </ul>
+                            </ul></li>
                             <li>
                                 <p> If the BrailleNote found the text you are searching for, it will be displayed on the Braille display.</p>
                             </li>
@@ -1272,7 +1362,7 @@
                             </li>
                             <li>
                                 <p> "Copy" everything in one document onto the clipboard. When you copy text to the clipboard the text will remain in its original location. When you "cut or move" text to the clipboard, you are actually removing it from the original location and putting it onto the clipboard.</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> Go to the top of the document <em> space + 123 </em></p>
@@ -1282,7 +1372,7 @@
                                 </li>
                                 <li>
                                     <p> Toggle the menu options <em> space or backspace </em></p>
-                                </li>
+                                
                                 <ul>
                                     <li>
                                         <p> Append block to clipboard: add text to the end of what is already on the clipboard.</p>
@@ -1323,17 +1413,17 @@
                                     <li>
                                         <p> Grade: change the braille grade of the block of text.</p>
                                     </li>
-                                </ul>
+                                </ul></li>
                                 <li>
                                     <p> Selecting Blocks of Text</p>
-                                </li>
+                                
                                 <ol>
                                     <li>
                                         <p> At this time we will set the top block marker. Your cursor is at the beginning of the document. We'll set the top block marker there.</p>
                                     </li>
                                     <li>
                                         <p> In Block Commands Menu, Select "Top Marker Insertion"</p>
-                                    </li>
+                                    
                                     <ul>
                                         <li>
                                             <p> Toggle through list <em> space, enter  </em></p>
@@ -1341,13 +1431,13 @@
                                         <li>
                                             <p> Direct selection <em> letter t </em></p>
                                         </li>
-                                    </ul>
+                                    </ul></li>
                                     <li>
                                         <p> To select the entire document. Jump to the end of the document <em> space + 456  </em></p>
                                     </li>
                                     <li>
                                         <p> In Block Command Menu, Select "Bottom Marker Instruction"</p>
-                                    </li>
+                                    
                                     <ul>
                                         <li>
                                             <p> Toggle through list <em> space, enter  </em></p>
@@ -1355,13 +1445,13 @@
                                         <li>
                                             <p> Direct selection <em> letter b </em></p>
                                         </li>
-                                    </ul>
+                                    </ul></li>
                                     <li>
                                         <p> BrailleNote keeps you in the block commands menu because it is expecting that you want to do something with the text you have selected.</p>
                                     </li>
                                     <li>
                                         <p> "Copy block to clipboard"</p>
-                                    </li>
+                                    
                                     <ul>
                                         <li>
                                             <p> Toggle through list <em> space, enter  </em></p>
@@ -1369,11 +1459,11 @@
                                         <li>
                                             <p> Direct selection <em> letter c </em></p>
                                         </li>
-                                    </ul>
-                                </ol>
+                                    </ul></li>
+                                </ol></li>
                                 <li>
                                     <p> Paste the text into another document.</p>
-                                </li>
+                                
                                 <ol>
                                     <li>
                                         <p> pen the document you previously had open <em> space + dots1256 </em></p>
@@ -1392,7 +1482,7 @@
                                     </li>
                                     <li>
                                         <p> "Paste clipboard"</p>
-                                    </li>
+                                    
                                     <ul>
                                         <li>
                                             <p> Toggle through list <em> space, enter  </em></p>
@@ -1400,17 +1490,30 @@
                                         <li>
                                             <p> Direct selection <em> letter p </em></p>
                                         </li>
-                                    </ul>
+                                    </ul></li>
                                     <li>
                                         <p> Did the paste work? Read your document to find out.</p>
                                     </li>
-                                </ol>
-                            </ol>
+                                </ol></li>
+                            </ol></li>
                         </ol>
                     </subsection>
                     <subsection>
-                        <title>Quiz</title>:
-<p>If the statement is true, write or say true. Write or say false if the statement is false.</p><ol><li><p> To append text to the clipboard means to add text to the end of the text that is currently on the clipboard.</p></li><li><p> Space + b will open the Block Commands menu.</p></li><li><p> In the Block Commands menu, using the initial letter of each item is a shortcut to carry out the action you want.</p></li><li><p> It is possible to delete a block of text.</p></li><li><p> Space + 2345 is the shortcut to open the previously opened document.</p></li><li><p> To move text to the clipboard means the text will also be left in its original location.</p></li><li><p> To check the time, press space + t.</p></li><li><p> In the calculator, dots3 6 are the symbol for subtraction.</p></li><li><p> Enter + dot4 will make the volume softer.</p></li><li><p> Enter + dot3 will make the voice rate slower.</p></li></ol></subsection>
+                        <title>Quiz</title>
+<p>If the statement is true, write or say true. Write or say false if the statement is false.</p>
+<ol>
+<li><p> To append text to the clipboard means to add text to the end of the text that is currently on the clipboard.</p></li>
+<li><p> Space + b will open the Block Commands menu.</p></li>
+<li><p> In the Block Commands menu, using the initial letter of each item is a shortcut to carry out the action you want.</p></li>
+<li><p> It is possible to delete a block of text.</p></li>
+<li><p> Space + 2345 is the shortcut to open the previously opened document.</p></li>
+<li><p> To move text to the clipboard means the text will also be left in its original location.</p></li>
+<li><p> To check the time, press space + t.</p></li>
+<li><p> In the calculator, dots3 6 are the symbol for subtraction.</p></li>
+<li><p> Enter + dot4 will make the volume softer.</p></li>
+<li><p> Enter + dot3 will make the voice rate slower.</p></li>
+</ol>
+</subsection>
                 </section>
                 <section>
                     <title>Spell Check</title>
@@ -1420,7 +1523,7 @@
                         <ol>
                             <li>
                                 <p> Practice:</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> Create a new document.</p>
@@ -1433,7 +1536,7 @@
                                 </li>
                                 <li>
                                     <p> "Spelling checker menu" is displayed by the BrailleNote.</p>
-                                </li>
+                                
                                 <ul>
                                     <li>
                                         <p> document check</p>
@@ -1450,10 +1553,10 @@
                                     <li>
                                         <p> check from cursor to end of document</p>
                                     </li>
-                                </ul>
+                                </ul></li>
                                 <li>
                                     <p> Focus on "document check"</p>
-                                </li>
+                                
                                 <ul>
                                     <li>
                                         <p> Toggle through list <em> space, enter  </em></p>
@@ -1461,11 +1564,10 @@
                                     <li>
                                         <p> Direct selection <em> letter d </em></p>
                                     </li>
-                                </ul>
-                                <em> letter d </em>
+                                </ul></li>
                                 <li>
                                     <p> BrailleNote displays the first misspelling and gives you the prompt "option?" so that you can decide what you want to do. You have the following choices. The options are listed here for you.</p>
-                                </li>
+                              
                                 <ul>
                                     <li>
                                         <p> Ignore all occurrences of the word <em> letter i </em></p>
@@ -1485,14 +1587,14 @@
                                     <li>
                                         <p> Suggestions <em> letter s </em></p>
                                     </li>
-                                </ul>
+                                </ul></li>
                                 <li>
                                     <p> An example of an error in my document is given here. Explore using the spelling checker in your own document. Use all options as appropriate.</p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> Example:</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> "practice3. Option?" was displayed.</p>
@@ -1518,12 +1620,25 @@
                                 <li>
                                     <p> The next word is displayed.</p>
                                 </li>
-                            </ol>
+                            </ol></li>
                         </ol>
                     </subsection>
                     <subsection>
-                        <title>Quiz</title>:
-<p>Write or say the answer to each question.</p><ol><li><p> How can you open the document that was previously opened using the hotkey?</p></li><li><p> How can you find the next occurrence of the last searched for string of text?</p></li><li><p> What does space + dots1 6 do?</p></li><li><p> What is the command used to jump to the bottom of a document?</p></li><li><p> When in a list of folders or documents, what hotkey can be used to rename the folder or document?</p></li><li><p> In a book or document, how can you go forward reading with the voice?</p></li><li><p> What does space + f do?</p></li><li><p> From Main Menu, what application will the letter f open?</p></li><li><p> How can you turn the volume down?</p></li><li><p> In the calculator, what is the multiplication symbol?</p></li></ol></subsection>
+                        <title>Quiz</title>
+<p>Write or say the answer to each question.</p>
+<ol>
+<li><p> How can you open the document that was previously opened using the hotkey?</p></li>
+<li><p> How can you find the next occurrence of the last searched for string of text?</p></li>
+<li><p> What does space + dots1 6 do?</p></li>
+<li><p> What is the command used to jump to the bottom of a document?</p></li>
+<li><p> When in a list of folders or documents, what hotkey can be used to rename the folder or document?</p></li>
+<li><p> In a book or document, how can you go forward reading with the voice?</p></li>
+<li><p> What does space + f do?</p></li>
+<li><p> From Main Menu, what application will the letter f open?</p></li>
+<li><p> How can you turn the volume down?</p></li>
+<li><p> In the calculator, what is the multiplication symbol?</p></li>
+</ol>
+</subsection>
                 </section>
                 <section>
                     <title>Set up WiFi</title>
@@ -1581,12 +1696,12 @@
                             </li>
                             <li>
                                 <p> If I wanted the option to say yes <em> letter y  </em></p>
-                            </li>
+                           
                             <ul>
                                 <li>
                                     <p> if I did change to "yes" other fields and choices would become available.</p>
                                 </li>
-                            </ul>
+                            </ul></li>
                             <li>
                                 <p> Context dependent help <em> space + h </em></p>
                             </li>
@@ -1611,7 +1726,7 @@
                         </ol>
                     </subsection>
                     <subsection>
-                        <title>Quiz</title>:
+                        <title>Quiz</title>
 <p>If the statement is true, write or say true. Write or say false if the statement is false.</p><ol><li><p> Space + o will open the options menu.</p></li><li><p> Space + dots34  will toggle among choices.</p></li><li><p> To exit a document, use e chord (e + space).</p></li><li><p> Press back thumb-key + space to turn the speech off.</p></li><li><p> In the options menu, c will open the connectivity menu.</p></li><li><p> Space + dots2 5 will speak the current word when speech on or speech on request is on.</p></li><li><p> to check the power status, press p chord + o.</p></li><li><p> Space + f will help you find text.</p></li><li><p> When writing a Key Word document, the BrailleNote will automatically save the document for you.</p></li><li><p> Space + b will open the block commands menu.</p></li></ol></subsection>
                 </section>
                 <section>
@@ -1622,7 +1737,7 @@
                         <ol>
                             <li>
                                 <p> First, ensure wireless is on:</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> Options menu <em> space + o </em></p>
@@ -1642,10 +1757,10 @@
                                 <li>
                                     <p> Return to Main Menu <em> space + dot123456 </em></p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> Use the Internet:</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> From Main Menu, open the web browser <em> letter i </em></p>
@@ -1655,7 +1770,7 @@
                                 </li>
                                 <li>
                                     <p> "Connect using which configuration?"</p>
-                                </li>
+                                
                                 <ul>
                                     <li>
                                         <p> If your connection name is displayed <em>  enter </em></p>
@@ -1663,10 +1778,10 @@
                                     <li>
                                         <p> If not, toggle to your connection name <em> space, enter </em></p>
                                     </li>
-                                </ul>
+                                </ul></li>
                                 <li>
                                     <p> You can move back and forward by input control.  An input control is a web page element, such as an edit box for writing, that you can interact with.</p>
-                                </li>
+                                
                                 <ul>
                                     <li>
                                         <p> Previous input control <em> space + dots13  </em></p>
@@ -1683,10 +1798,10 @@
                                     <li>
                                         <p> To search <em> enter </em></p>
                                     </li>
-                                </ul>
+                                </ul></li>
                                 <li>
                                     <p> A results page should be displayed. Use review commands to navigate and read the page.</p>
-                                </li>
+                                
                                 <ul>
                                     <li>
                                         <p> To just hear page links <em> space / backspace </em></p>
@@ -1700,10 +1815,10 @@
                                     <li>
                                         <p> To read using the braille display <em> back or advance thumb-keys </em></p>
                                     </li>
-                                </ul>
+                                </ul></li>
                                 <li>
                                     <p> If using speech</p>
-                                </li>
+                                
                                 <ul>
                                     <li>
                                         <p> read the previous sentence <em> space + dot1  </em></p>
@@ -1714,10 +1829,10 @@
                                     <li>
                                         <p> read the next sentence <em> space + dot4 </em></p>
                                     </li>
-                                </ul>
+                                </ul></li>
                                 <li>
                                     <p> Other Browser Commands are available to you.</p>
-                                </li>
+                                
                                 <ul>
                                     <li>
                                         <p> Open new URL <em> enter + o  </em></p>
@@ -1737,20 +1852,84 @@
                                     <li>
                                         <p> Hear current input control <em> space + dots1346  </em></p>
                                     </li>
-                                </ul>
-                            </ol>
+                                </ul></li>
+                            </ol></li>
                         </ol>
                     </subsection>
                     <subsection>
-                        <title>Quiz</title>:
-<p>Write or say the best answer choice to each question.</p><ol><li><p> From Main Menu, what letter should be pressed to go to the web browser?</p></li><ol><li><p> b</p></li><li><p> w</p></li><li><p> i</p></li><li><p> g</p></li></ol><li><p> What is the command to go back by a web page in the session history?</p></li><ol><li><p> enter + b</p></li><li><p> backspace</p></li><li><p> previous thumb-key</p></li><li><p> enter + L</p></li></ol><li><p> On a web page, what will space + 4 6 do?</p></li><ol><li><p> jump to the next link</p></li><li><p> move to the next input control</p></li><li><p> move forward a page in the session history</p></li><li><p> refresh the page</p></li></ol><li><p> To read forward by sentence or line with speech on a web page, what should you press?</p></li><ol><li><p> space + g</p></li><li><p> space + dot1 + 4</p></li><li><p> space + dot1</p></li><li><p> space + dot4</p></li></ol><li><p> What does space + x do?</p></li><ol><li><p> exit the internet</p></li><li><p> read current page</p></li><li><p> read current input control</p></li><li><p> read current line</p></li></ol><li><p> How can you read and move forward by a width of the braille display?</p></li><ol><li><p> previous thumb-key</p></li><li><p> back thumb-key</p></li><li><p> advance thumb-key</p></li><li><p> next thumb-key</p></li></ol><li><p> what does enter + dot1 do?</p></li><ol><li><p> speak faster</p></li><li><p> speak slower</p></li><li><p> decrease the pitch</p></li><li><p> increase the pitch</p></li></ol><li><p> How can you check the power status?</p></li><ol><li><p> space with a full cell</p></li><li><p> enter + p</p></li><li><p> space + p</p></li><li><p> o chord, then p</p></li></ol><li><p> How can you go to the last searched for text string?</p></li><ol><li><p> enter + n</p></li><li><p> space + n</p></li><li><p> back + advance thumb-key</p></li><li><p> space + backspace + n</p></li></ol><li><p> What is the name of the web browser on the BrailleNote?</p></li><ol><li><p> Key Web</p></li><li><p> Fire Fox</p></li><li><p> Internet Explorer</p></li><li><p> HumanWare</p></li></ol></ol></subsection>
+                        <title>Quiz</title>
+<p>Write or say the best answer choice to each question.</p>
+<ol>
+<li><p> From Main Menu, what letter should be pressed to go to the web browser?</p>
+	<ol><li><p> b</p></li>
+	<li><p> w</p></li>
+	<li><p> i</p></li>
+	<li><p> g</p></li>
+	</ol></li>
+<li><p> What is the command to go back by a web page in the session history?</p>
+	<ol><li><p> enter + b</p></li>
+	<li><p> backspace</p></li>
+	<li><p> previous thumb-key</p></li>
+	<li><p> enter + L</p></li>
+	</ol></li>
+<li><p> On a web page, what will space + 4 6 do?</p>
+	<ol><li><p> jump to the next link</p></li>
+	<li><p> move to the next input control</p></li>
+	<li><p> move forward a page in the session history</p></li>
+	<li><p> refresh the page</p></li>
+	</ol></li>
+<li><p> To read forward by sentence or line with speech on a web page, what should you press?</p>
+	<ol><li><p> space + g</p></li>
+	<li><p> space + dot1 + 4</p></li>
+	<li><p> space + dot1</p></li>
+	<li><p> space + dot4</p></li>
+	</ol></li>
+<li><p> What does space + x do?</p>
+	<ol><li><p> exit the internet</p></li>
+	<li><p> read current page</p></li>
+	<li><p> read current input control</p></li>
+	<li><p> read current line</p></li>
+	</ol></li>
+<li><p> How can you read and move forward by a width of the braille display?</p>
+	<ol><li><p> previous thumb-key</p></li>
+	<li><p> back thumb-key</p></li>
+	<li><p> advance thumb-key</p></li>
+	<li><p> next thumb-key</p></li>
+	</ol></li>
+<li><p> what does enter + dot1 do?</p>
+	<ol><li><p> speak faster</p></li>
+	<li><p> speak slower</p></li>
+	<li><p> decrease the pitch</p></li>
+	<li><p> increase the pitch</p></li>
+	</ol></li>
+<li><p> How can you check the power status?</p>
+	<ol><li><p> space with a full cell</p></li>
+	<li><p> enter + p</p></li>
+	<li><p> space + p</p></li>
+	<li><p> o chord, then p</p></li>
+	</ol></li>
+<li><p> How can you go to the last searched for text string?</p>
+	<ol><li><p> enter + n</p></li>
+	<li><p> space + n</p></li>
+	<li><p> back + advance thumb-key</p></li>
+	<li><p> space + backspace + n</p></li>
+	</ol></li>
+<li><p> What is the name of the web browser on the BrailleNote?</p>
+	<ol><li><p> Key Web</p></li>
+	<li><p> Fire Fox</p></li>
+	<li><p> Internet Explorer</p></li>
+	<li><p> HumanWare</p></li>
+	</ol></li>
+</ol>
+
+</subsection>
                 </section>
                 <section>
                     <title>BrailleNote Apex Commands Taught in "School Skills" Lessons</title>
                     <ol>
                         <li>
                             <p> General Commands</p>
-                        </li>
+                        
                         <ul>
                             <li>
                                 <p> Return to Main Menu with <em> space + dots123456 </em></p>
@@ -1830,7 +2009,7 @@
                             <li>
                                 <p> Move to top of document or list <em> space + dots123 </em></p>
                             </li>
-                            <li>
+                            <li> 
                                 <p> Move to bottom of document or list <em> space + dots456 </em></p>
                             </li>
                             <li>
@@ -1899,10 +2078,10 @@
                             <li>
                                 <p> In the options menu, open connectivity menu <em> letter c  </em></p>
                             </li>
-                        </ul>
+                        </ul></li>
                         <li>
                             <p> Calculator Commands:</p>
-                        </li>
+                        
                         <ul>
                             <li>
                                 <p> Clear calculation <em> space + dots356.  </em></p>
@@ -1931,10 +2110,10 @@
                             <li>
                                 <p> Toggle display result or input <em> previous + next thumb keys </em></p>
                             </li>
-                        </ul>
+                        </ul></li>
                         <li>
                             <p> Web Browser-Specific Commands:</p>
-                        </li>
+                        
                         <ul>
                             <li>
                                 <p> Move to next input control <em> space + dots46 </em></p>
@@ -1972,7 +2151,7 @@
                             <li>
                                 <p> Hear current input control <em> space + x </em></p>
                             </li>
-                        </ul>
+                        </ul></li>
                     </ol>
                 </section>
                 <section>
@@ -2010,7 +2189,7 @@
                             </li>
                             <li>
                                 <p> Use each word below in a complete sentence</p>
-                            </li>
+                            
                             <ul>
                                 <li>
                                     <p> as</p>
@@ -2033,7 +2212,7 @@
                                 <li>
                                     <p> very</p>
                                 </li>
-                            </ul>
+                            </ul></li>
                             <li>
                                 <p> Read and edit your sentences for errors. Make any corrections that you find</p>
                             </li>
@@ -2081,7 +2260,7 @@
                             </li>
                             <li>
                                 <p> Write each sentence</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> I do have fun.</p>
@@ -2104,7 +2283,7 @@
                                 <li>
                                     <p> Every boat is not small.</p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> Read and edit your sentences for errors. Make any corrections that you find</p>
                             </li>
@@ -2152,7 +2331,7 @@
                             </li>
                             <li>
                                 <p> Write each question.</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> Do you have knowledge about that?</p>
@@ -2169,7 +2348,7 @@
                                 <li>
                                     <p> Will it get very hot?</p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> Read and edit your sentences for errors. Make any corrections that you find.</p>
                             </li>
@@ -2190,7 +2369,7 @@
                         <ol>
                             <li>
                                 <p> Set Up</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> Create a folder called "Math"</p>
@@ -2240,30 +2419,30 @@
                                 <li>
                                     <p> Exit the document to the main menu</p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> Addition Problems</p>
-                            </li>
+                            
                             <ol>
                                 <li>
-                                    <p> 45 + 67 =</p>
+                                    <math> 45 + 67 =</math>
                                 </li>
                                 <li>
-                                    <p> 59 + 77 =</p>
+                                    <math> 59 + 77 =</math>
                                 </li>
                                 <li>
-                                    <p> 117 + 36 =</p>
+                                    <math> 117 + 36 =</math>
                                 </li>
                                 <li>
-                                    <p> 404 + 29 =</p>
+                                    <math> 404 + 29 =</math>
                                 </li>
                                 <li>
-                                    <p> 381 + 75</p>
+                                    <math> 381 + 75</math>
                                 </li>
                                 <li>
-                                    <p> 8.7 + 5.5 =</p>
+                                    <math> 8.7 + 5.5 =</math>
                                 </li>
-                            </ol>
+                            </ol></li>
                         </ol>
                     </subsection>
                     <subsection>
@@ -2275,7 +2454,7 @@
                     <ol>
                         <li>
                             <p> You can open the dictionary/thesaurus from anywhere on the BrailleNote.</p>
-                        </li>
+                        
                         <ol>
                             <li>
                                 <p> Open Options Menu</p>
@@ -2301,10 +2480,10 @@
                             <li>
                                 <p> You can use the back or advance thumb-key to read the braille.</p>
                             </li>
-                        </ol>
+                        </ol></li>
                         <li>
                             <p> Other available commands in dictionary:</p>
-                        </li>
+                        
                         <ol>
                             <li>
                                 <p> For information about the word <em> space + i  </em></p>
@@ -2327,10 +2506,10 @@
                             <li>
                                 <p> Look up another word <em> space + e </em></p>
                             </li>
-                        </ol>
+                        </ol></li>
                         <li>
                             <p> Use dictionary from within a document:</p>
-                        </li>
+                        
                         <ol>
                             <li>
                                 <p> Open your document.</p>
@@ -2356,10 +2535,10 @@
                             <li>
                                 <p> Use dictionary commands to read.</p>
                             </li>
-                        </ol>
+                        </ol></li>
                         <li>
                             <p> Move forward or back by entry:</p>
-                        </li>
+                        
                         <ol>
                             <li>
                                 <p> Let's say you look up the word "bobber". You are on that word in the entry and can read the definition.</p>
@@ -2373,7 +2552,7 @@
                             <li>
                                 <p> To move back and forward by word when reading the definition, use space + dot2 or space + dot5.</p>
                             </li>
-                        </ol>
+                        </ol></li>
                     </ol>
                 </section>
                 <section>
@@ -2388,7 +2567,7 @@
                         </li>
                         <li>
                             <p> The menu items</p>
-                        </li>
+                        
                         <ul>
                             <li>
                                 <p> add a word</p>
@@ -2399,7 +2578,7 @@
                             <li>
                                 <p> delete a world</p>
                             </li>
-                        </ul>
+                        </ul></li>
                         <li>
                             <p> To add a word, focus on Add a Word and press enter.</p>
                         </li>
@@ -2441,6 +2620,8 @@
                     </ol>
                 </section>
             </chapter>
+			
+			
             <chapter>
                 <title>BrailleNote Apex General Usage Lessons</title>
                 <section>
@@ -2484,7 +2665,7 @@
                         <ol>
                             <li>
                                 <p> Ask your student to open the cover of the BrailleNote</p>
-                            </li>
+                            
                             <ul>
                                 <li>
                                     <p> The cover should open away from the BrailleNote user</p>
@@ -2492,13 +2673,13 @@
                                 <li>
                                     <p> If the BrailleNote is positioned correctly, your student will recognize six Braille writer keys and a spacebar which are similar to that of a Perkins Braille writer</p>
                                 </li>
-                            </ul>
+                            </ul></li>
                             <li>
                                 <p> Assist your student in locating the on off switch located under the velcro flap toward the back of the left panel of the BrailleNote</p>
                             </li>
                             <li>
                                 <p> Before turning the BrailleNote on </p>
-                            </li>
+                            
                             <ul>
                                 <li>
                                     <p> Explain that when the rocker switch is indented toward the user, the BrailleNote is on </p>
@@ -2506,7 +2687,7 @@
                                 <li>
                                     <p> When the on off switch is indented away from the user, the BrailleNote is of</p>
                                 </li>
-                            </ul>
+                            </ul></li>
                             <li>
                                 <p> Allow your student to feel the headphone jack on the left panel of the BrailleNote toward the front.</p>
                             </li>
@@ -2527,7 +2708,7 @@
                             </li>
                             <li>
                                 <p> The thumb-keys are, starting at the left:</p>
-                            </li>
+                            
                             <ul>
                                 <li>
                                     <p> previous</p>
@@ -2541,7 +2722,7 @@
                                 <li>
                                     <p> next thumb-keys.</p>
                                 </li>
-                            </ul>
+                            </ul></li>
                         </ol>
                     </subsection>
                     <subsection>
@@ -2630,7 +2811,7 @@
                             </li>
                             <li>
                                 <p> Toggle Speech Options <em>hold previous thumb-key, space</em></p>
-                            </li>
+                           
                             <ul>
                                 <li>
                                     <p> speech on</p>
@@ -2641,7 +2822,7 @@
                                 <li>
                                     <p> speech on request modes</p>
                                 </li>
-                            </ul>
+                            </ul> </li>
                             <li>
                                 <p> Toggle options within Main menu  <em>space</em></p>
                             </li>
@@ -2653,7 +2834,7 @@
                             </li>
                             <li>
                                 <p> Direct Selection of options in Main Menu</p>
-                            </li>
+                            
                             <ul>
                                 <li>
                                     <p> To select the Word Processor <em>letter w</em></p>
@@ -2691,10 +2872,10 @@
                                 <li>
                                     <p> To select the FM Radio, p<em>letter f</em></p>
                                 </li>
-                            </ul>
+                            </ul> </li>
                             <li>
                                 <p> To access KeySoft programs from anywhere in BrailleNote</p>
-                            </li>
+                            
                             <ul>
                                 <li>
                                     <p> To select the Word Processor <em>backspace + enter + w</em></p>
@@ -2732,7 +2913,7 @@
                                 <li>
                                     <p> To select the FM Radio, <em>backspace + enter + f</em></p>
                                 </li>
-                            </ul>
+                            </ul> </li>
                             <li>
                                 <p> Return to Main Menu <em>space + dots12356</em></p>
                             </li>
@@ -2833,11 +3014,11 @@
                             </li>
                             <li>
                                 <p> Name the file by typing a name (\lt250 characters), then press enter</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> When in the document, instruct your student to write:</p>
-                                </li>
+                                
                                 <ol>
                                     <li>
                                         <p> Their name, then enter</p>
@@ -2854,17 +3035,17 @@
                                     <li>
                                         <p> Now your student may write two or three sentences to get a feel for what writing in the word processor is like.</p>
                                     </li>
-                                </ol>
+                                </ol></li>
                                 <li>
                                     <p> Move Cursor Location <em>cursor routing keys</em></p>
                                 </li>
                                 <li>
                                     <p> Delete text <em>backspace key</em></p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> Listed below are commands that can be used on the BrailleNote.  The current document will be too small to practice them all, but a quick review won't hurt.  Review commands are especially helpful when the speech is being used.</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> To move back by character <em>space + dot3</em></p>
@@ -2893,7 +3074,7 @@
                                 <li>
                                     <p> To move back the width of 1 braille display <em>back thumb-key</em></p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> To move back the width of 1 braille display <em>advance thumb-key</em></p>
                             </li>
@@ -2902,7 +3083,7 @@
                             </li>
                             <li>
                                 <p> Access Options Menu <em>space + o thumb-key</em></p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> See Power/battery level <em>letter p</em></p>
@@ -2910,7 +3091,7 @@
                                 <li>
                                     <p> Clear power level and return to document <em>next thumb-key</em></p>
                                 </li>
-                            </ol>
+                            </ol></li>
                         </ol>
                     </subsection>
                     <subsection>
@@ -2984,7 +3165,7 @@
                             </li>
                             <li>
                                 <p> Create a document called "science'' in a folder called "homework''</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> From KeyWord Menu, create a document <em>space + enter</em> or <em>letter c, enter</em></p>
@@ -2994,7 +3175,7 @@
                                 </li>
                                 <li>
                                     <p> At the cue, "folder does not exist, create new?" </p>
-                                </li>
+                                
                                 <ul>
                                     <li>
                                         <p> For yes <em>letter y</em></p>
@@ -3002,20 +3183,20 @@
                                     <li>
                                         <p>For no <em>letter n</em></p>
                                     </li>
-                                </ul>
+                                </ul></li>
                                 <li>
                                     <p> At "File Name?'' prompt, write "Science'' as the file name and press enter</p>
                                 </li>
                                 <li>
                                     <p> You will be placed in your blank document called Science.</p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> Return to Main Menu <em>space + dots123456</em></p>
                             </li>
                             <li>
                                 <p> Create a document called "math'' in the "homework''folder</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> From KeyWord Menu, create a document <em>space + enter</em> or <em>letter c, enter</em></p>
@@ -3029,7 +3210,7 @@
                                 <li>
                                     <p> You will be placed in your blank document called Math.</p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> Return to Main Menu <em>space + dots123456</em></p>
                             </li>
@@ -3038,7 +3219,7 @@
                             </li>
                             <li>
                                 <p> Open the "Math'' document</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> From KeyWord Menu, open a document  <em>space + enter </em> or <em>letter o, enter</em></p>
@@ -3049,10 +3230,10 @@
                                 <li>
                                     <p> Toggle options to desired file  <em>space, enter</em></p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> When in the document, instruct your student to write:</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> Their name, then enter</p>
@@ -3075,10 +3256,10 @@
                                 <li>
                                     <p> exit the document <em>space + e</em></p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> Using the Delete Menu</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> Have student a document and write five sentences about a pet or favorite animal.</p>
@@ -3088,7 +3269,7 @@
                                 </li>
                                 <li>
                                     <p> Toggle options <em>space, enter</em> or <em>first letter, enter</em></p>
-                                </li>
+                                
                                 <ul>
                                     <li>
                                         <p> To delete current character <em>backspace + dots36</em></p>
@@ -3108,14 +3289,14 @@
                                     <li>
                                         <p> To delete to the end of the document (asks for confirmation) <em>backspace + dots456</em></p>
                                     </li>
-                                </ul>
-                            </ol>
+                                </ul></li>
+                            </ol></li>
                             <li>
                                 <p> Open the help menu in KeyWord <em>space + h</em></p>
                             </li>
                             <li>
                                 <p> When in the help menu, the options are:</p>
-                            </li>
+                            
                             <ul>
                                 <li>
                                     <p> edit commands</p>
@@ -3129,7 +3310,7 @@
                                 <li>
                                     <p> miscellaneous commands</p>
                                 </li>
-                            </ul>
+                            </ul></li>
                             <li>
                                 <p> To speak the time from where you are in keyword <em>enter + t</em></p>
                             </li>
@@ -3146,7 +3327,7 @@
                         <ol>
                             <li>
                                 <p> Edit Commands</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> Delete character under cursor  <em>backspace + dots36</em></p>
@@ -3181,10 +3362,10 @@
                                 <li>
                                     <p> To enter a Unicode character, press backspace with dots3 5.</p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> Review Commands</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> Go forward reading,   <em>space+g</em>.</p>
@@ -3242,7 +3423,7 @@
                                 </li>
                                 <li>
                                     <p> To change the reading mode<em> space + m repeatedly</em></p>
-                                </li>
+                                
                                 <ul>
                                     <li>
                                         <p> Sentence</p>
@@ -3256,7 +3437,7 @@
                                     <li>
                                         <p> Columns</p>
                                     </li>
-                                </ul>
+                                </ul></li>
                                 <li>
                                     <p> Announce key names <em>space + w</em></p>
                                 </li>
@@ -3269,10 +3450,10 @@
                                 <li>
                                     <p> To enter or leave review-only mode <em>space + x</em></p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> Braille Thumb-key Commands</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> To advance the display by one width<em> advance thumb-key</em></p>
@@ -3307,10 +3488,10 @@
                                 <li>
                                     <p> To cycle among the four keyboard modes <em>previous thumb-key + next thumb-key</em></p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> Miscellaneous Commands</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> Block commands menu  <em>space + b</em></p>
@@ -3333,7 +3514,7 @@
                                 <li>
                                     <p> To insert a field or control an address list template  <em>space + dots2346</em> or  <em>backspace + enter + dots2346</em></p>
                                 </li>
-                            </ol>t
+                            </ol></li>
 </ol>
                     </subsection>
                     <subsection>
@@ -3404,7 +3585,7 @@
                             </li>
                             <li>
                                 <p> When in Keymail, cycle menu options:  <em>space</em></p>
-                            </li>
+                            
                             <ul>
                                 <li>
                                     <p> write an e-mail</p>
@@ -3418,7 +3599,7 @@
                                 <li>
                                     <p> setup options</p>
                                 </li>
-                            </ul>
+                            </ul></li>
                             <li>
                                 <p> At the connect to a service prompt, when service name is displayed  <em>enter</em></p>
                             </li>
@@ -3433,14 +3614,14 @@
                             </li>
                             <li>
                                 <p> When in an e-mail message:</p>
-                            </li>
+                           
                             <ul>
                                 <li>
                                     <p> move from field to field  <em>space</em></p>
                                 </li>
                                 <li>
                                     <p> Move back by field  <em>Backspace will move back by field</em></p>
-                                </li>
+                                
                                 <ul>
                                     <li>
                                         <p> subject</p>
@@ -3454,8 +3635,8 @@
                                     <li>
                                         <p> etc</p>
                                     </li>
-                                </ul>
-                            </ul>
+                                </ul></li>
+                            </ul></li>
                             <li>
                                 <p> To move to the next e-mail message <em>space + dots56</em></p>
                             </li>
@@ -3470,7 +3651,7 @@
                             </li>
                             <li>
                                 <p> Read the e-mail message with the following commands:</p>
-                            </li>
+                           
                             <ul>
                                 <li>
                                     <p> Go forward reading automatically <em>space + g</em></p>
@@ -3522,7 +3703,7 @@
                                 </li>
                                 <li>
                                     <p> Start braille display moving automatically  <em> space + dots23456 </em></p>
-                                </li>
+                                
                                 <ul>
                                     <li>
                                         <p> Control the speed of braille display <em>previous thumb-key, next thumb-key</em></p>
@@ -3530,8 +3711,8 @@
                                     <li>
                                         <p> Stop the display from automatically moving <em>previous thumb-key + next thumb-key</em></p>
                                     </li>
-                                </ul>
-                            </ul>
+                                </ul></li>
+                            </ul></li>
                             <li>
                                 <p> When your student has finished reading the e-mail message, he or she may press space with e.  "Move this e-mail to which folder?" will be the prompt.</p>
                             </li>
@@ -3564,7 +3745,7 @@
                             </li>
                             <li>
                                 <p> In the message area, write a simple e-mail message.  Edit the message as you wish before sending it.  A review of some editing commands is given below.</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> Delete to end of sentence by using backspace with dots1 and 4.</p>
@@ -3584,7 +3765,7 @@
                                 <li>
                                     <p> Use the cursor keys and backspace to make corrections and insertions.</p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> When you and your student are satisfied with the message, use e with space to begin the process of sending an e-mail.  Press y when asked if you are ready to send the message.</p>
                             </li>
@@ -3618,31 +3799,31 @@
                         <p>True or False:</p>
                         <ol>
                             <li>
-                                <p> When reading, space with dot2 will move back by character.</p>
+                                <p> When reading, space + dot2 will move back by character.</p>
                             </li>
                             <li>
-                                <p> Space with dots1 and 4 will delete to the end of the sentence.</p>
+                                <p> Space with dots14 will delete to the end of the sentence.</p>
                             </li>
                             <li>
-                                <p> Use space with g to go forward reading.</p>
+                                <p> Use space + g to go forward reading.</p>
                             </li>
                             <li>
-                                <p> Backspace with dots2 and 5 will delete the word under the cursor.</p>
+                                <p> Backspace + dots2 and 5 will delete the word under the cursor.</p>
                             </li>
                             <li>
-                                <p> Use space with dot3 to move back by a word.</p>
+                                <p> Use space + dot3 to move back by a word.</p>
                             </li>
                             <li>
-                                <p> Use backspace with dot2 to delete the word before the cursor.</p>
+                                <p> Use backspace + dot2 to delete the word before the cursor.</p>
                             </li>
                             <li>
-                                <p> Backspace with g will stop the display from moving automatically.</p>
+                                <p> Backspace + g will stop the display from moving automatically.</p>
                             </li>
                             <li>
                                 <p> The back and advance thumb-keys will move the display back and forwardby a width of the Braille display.</p>
                             </li>
                             <li>
-                                <p> Space with dots2 3 4 5 6 will start the display moving automatically.</p>
+                                <p> Space + dots23456 will start the display moving automatically.</p>
                             </li>
                             <li>
                                 <p> A new folder cannot be added to the existing e-mail folders.</p>
@@ -3699,7 +3880,7 @@
                             </li>
                             <li>
                                 <p> If a word cannot be found or you need to fix a word, use the spell checker to do so.  The following options are available when trying to fix a misspelled word:</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> Use i to ignore all occurrences of the word.</p>
@@ -3722,7 +3903,7 @@
                                 <li>
                                     <p> Practice checking words at this time until you and your student adjust to using the word check option.</p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> If your student is unsure of the correct spelling of a word or unsure of the correct Braille sign, use the "lookup word" option in the spelling checker.  Press dots1 and 6 to enter the spelling checker.  Press space to get to the "lookup word" option.  Press enter.</p>
                             </li>
@@ -3751,7 +3932,7 @@
                         <ol>
                             <li>
                                 <p> Which of the following is not an option in the spelling checker?</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> document check</p>
@@ -3765,10 +3946,10 @@
                                 <li>
                                     <p> sentence or line check</p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> Which dots are used with the space to enter the spelling checker?</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> dots1 and 4</p>
@@ -3782,10 +3963,10 @@
                                 <li>
                                     <p> dots2 and 6</p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> In the spelling checker, what will space with dot5 do?</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> get suggestions</p>
@@ -3799,10 +3980,10 @@
                                 <li>
                                     <p> change all occurrences of the word</p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> To get help from anywhere when using the BrailleNote, what should you do?</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> use backspace with h</p>
@@ -3816,10 +3997,10 @@
                                 <li>
                                     <p> use space with h</p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> What operation will space with a full cell complete?</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> return to the internet</p>
@@ -3833,10 +4014,10 @@
                                 <li>
                                     <p> both b and c</p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> Which thumb-key is the first thumb-key on the left?</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> previous</p>
@@ -3850,10 +4031,10 @@
                                 <li>
                                     <p> next</p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> Backspace with dots1 and 4 in a keyword document will delete what?</p>
-                            </li>
+                           
                             <ol>
                                 <li>
                                     <p> the current sentence</p>
@@ -3867,10 +4048,10 @@
                                 <li>
                                     <p> the next sentence</p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> In an e-mail message list, pressing space with dots5 and 6 will complete which action?</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> move to next field</p>
@@ -3884,10 +4065,10 @@
                                 <li>
                                     <p> move to the create a file option</p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> In menu options, which key will move to the next menu item?</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> space</p>
@@ -3901,10 +4082,10 @@
                                 <li>
                                     <p> both a and b</p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> To turn the speech on or off, use which command?</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> next thumb-key with space</p>
@@ -3918,7 +4099,7 @@
                                 <li>
                                     <p> previous thumb-key with space</p>
                                 </li>
-                            </ol>
+                            </ol></li>
                         </ol>
                     </subsection>
                 </section>
@@ -3971,7 +4152,7 @@
                             </li>
                             <li>
                                 <p> Move to the index item called "battery" and press enter.  The following commands can be used to read when in the User Guide index.  Practice reading about the battery.</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> To start auto-advance, press space with dots1 2 4 5 6.</p>
@@ -3994,7 +4175,7 @@
                                 <li>
                                     <p> To move by paragraph, use space with dots5 6 and space with dots2 3.</p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> Exit the User Guide.  Return to the Main Menu.</p>
                             </li>
@@ -4003,7 +4184,7 @@
                             </li>
                             <li>
                                 <p> At the cue, press t for table of contents.  Use the commands below to read through the table of contents items.</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> Space or backspace will move forward and back by item.</p>
@@ -4014,7 +4195,7 @@
                                 <li>
                                     <p> Enter on the item you wish to read.</p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> Go to the word processor chapter and press enter.  Sub-index items will then be given.</p>
                             </li>
@@ -4034,34 +4215,34 @@
                         <p>Copy each sentence.  Fill in the blank with the correct answer. Use the BrailleNote to complete the written work.</p>
                         <ol>
                             <li>
-                                <p> To start  press space with dots1 2 4 5 6.</p>
+                                <p> To start ?  press space + dots12456.</p>
                             </li>
                             <li>
-                                <p> Enter the User Guide through the  menu.</p>
+                                <p> Enter the User Guide through the ? menu.</p>
                             </li>
                             <li>
-                                <p> To move by  use space with dots2 3 and space with dots5 6.</p>
+                                <p> To move by ? use space + dots23 and space + dots56</p>
                             </li>
                             <li>
-                                <p> Space with  will exit the User Guide.</p>
+                                <p> Space + ?  will exit the User Guide.</p>
                             </li>
                             <li>
-                                <p> In the User Guide you can read by  or .</p>
+                                <p> In the User Guide you can read by ? or ? </p>
                             </li>
                             <li>
-                                <p> Press  to go into an index item.</p>
+                                <p> Press ? to go into an index item.</p>
                             </li>
                             <li>
-                                <p> To get help in the User Guide, press .</p>
+                                <p> To get help in the User Guide, press ?</p>
                             </li>
                             <li>
-                                <p> To enter the User Guide, press o with space followed by .</p>
+                                <p> To enter the User Guide, press space + o followed by ?</p>
                             </li>
                             <li>
-                                <p> Press space with dot1 or dot4 to move back or forward by .</p>
+                                <p> Press space + dot1 or space + dot4 to move back or forward by ?</p>
                             </li>
                             <li>
-                                <p>   is the last item in the User Guide index.</p>
+                                <p>  ? is the last item in the User Guide index.</p>
                             </li>
                         </ol>
                     </subsection>
@@ -4118,7 +4299,7 @@
                             </li>
                             <li>
                                 <p> If you know the information for the fields, enter it.  If you are instructed to do so, use computer Braille.  Computer Braille uses no contractions.  The at symbol is entered by using space with dots1 3 6 followed by dot4. Address fields include the following:</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> Last name</p>
@@ -4198,7 +4379,7 @@
                                 <li>
                                     <p> Notes</p>
                                 </li>
-                            </ol>
+                            </ol></li>
                             <li>
                                 <p> When your student has entered information in the appropriate fields, he or she can press e with space. When prompted to "add record?" key in y and press enter.</p>
                             </li>
@@ -4225,7 +4406,7 @@
                             </li>
                             <li>
                                 <p> Help your student to use the User Guide to find more information about the Address Book.</p>
-                            </li>
+                            
                             <ol>
                                 <li>
                                     <p> Press o with space, then u to open the User Guide.</p>
@@ -4236,7 +4417,7 @@
                                 <li>
                                     <p> Then use space with h to find out how to read the index or the table of contents.</p>
                                 </li>
-                            </ol>
+                            </ol></li>
                         </ol>
                     </subsection>
                     <subsection>
@@ -4341,7 +4522,7 @@
                             </li>
                             <li>
                                 <p> When you are focused on or in an e-mail message, you can access the e-mail action menu by pressing space with dots2 and 6.  "E-mail action menu" will be spoken or displayed.  The choices in the e-mail action menu are:</p>
-                            </li>
+                            
                             <ul>
                                 <li>
                                     <p> Reply</p>
@@ -4367,7 +4548,7 @@
                                 <li>
                                     <p> All. Mark all e-mail</p>
                                 </li>
-                            </ul>
+                            </ul></li>
                             <li>
                                 <p> Encourage your student to access e-mail through the BrailleNote in order to use the options within the e-mail action menu.  Enter on the choice that you want to open.</p>
                             </li>
@@ -4381,7 +4562,7 @@
                         <p>Instruct your student to make up a question for each of the answers written below.</p>
                         <ol>
                             <li>
-                                <p> Space with dots2 and 6</p>
+                                <p> Space + dots26</p>
                             </li>
                             <li>
                                 <p> Access the address list from the to field of an e-mail</p>
@@ -8739,4 +8920,4 @@
             </chapter>
         </part>
     </book>
-</pretext>
+</pretext>                                              
