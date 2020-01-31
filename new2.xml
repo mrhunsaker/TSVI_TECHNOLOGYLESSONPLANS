@@ -2588,6 +2588,83 @@
                     </subsection>
                     <subsection>
                         <title>Scoring Rubric</title>
+                        <table>
+                            <tabular top="medium">
+                                <row bottom="medium">
+                                    <cell halign="center" colspan="2" left="medium" right="medium">
+        2 = independent, 1 = assistance required, 0 = no complete
+      </cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        Step
+      </cell>
+                                    <cell halign="right" right="medium">
+        Score
+      </cell>
+                                </row>
+                                <row>
+                                    <cell left="medium" right="medium">
+        [.5em]Begin at main menu.
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        hlineCreate a folder called "Braille."
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        In the Braille folder, create a file called Practice 1.
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        Write your name at the top of the document.
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        Write or insert the date on a separate line.
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        Write the assignment title on the 3rd line.
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        Leave one blank line between the heading and the document content.
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        Write and edit sentences to meet teacher satisfaction.
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        Number or letter sentences appropriately.
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        Print or give document to teacher as instructed.
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                            </tabular>
+                        </table>
                     </subsection>
                 </section>
                 <section>
@@ -2659,6 +2736,83 @@
                     </subsection>
                     <subsection>
                         <title>Scoring Rubric</title>
+                        <table>
+                            <tabular top="medium">
+                                <row bottom="medium">
+                                    <cell halign="center" colspan="2" left="medium" right="medium">
+        2 = independent, 1 = assistance required, 0 = no complete
+      </cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        Step
+      </cell>
+                                    <cell halign="right" right="medium">
+        Score
+      </cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        [.5em]Begin at main menu.
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        Open the folder called "Braille."
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        In the Braille folder, create a file called Practice 2.
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        Write your name at the top of the document.
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        Write or insert the date on a separate line.
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        Write the assignment title on the 3rd line.
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        Leave one blank line between the heading and the document content of the document.
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        Write and edit sentences to meet teacher satisfaction.
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        Number or letter sentences appropriately.
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        Print or give document to teacher as instructed.
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                            </tabular>
+                        </table>
                     </subsection>
                 </section>
                 <section>
@@ -2724,6 +2878,83 @@
                     </subsection>
                     <subsection>
                         <title>Scoring Rubric</title>
+                        <table>
+                            <tabular top="medium">
+                                <row bottom="medium">
+                                    <cell halign="center" colspan="2" left="medium" right="medium">
+        2 = independent, 1 = assistance required, 0 = no complete
+      </cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        Step
+      </cell>
+                                    <cell halign="right" right="medium">
+        Score
+      </cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        [.5em]Begin at main menu.
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        Create a folder called "Braille."
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        In the Braille folder, create a file called Practice 3.
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        Write your name at the top of the document.
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        Write or insert the date on a separate line.
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        Write the assignment title on the 3rd line.
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        Leave one blank line between the heading and the document content.
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        Write and edit sentences to meet teacher satisfaction.
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        Number or letter sentences appropriately.
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        Print or give document to teacher as instructed.
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                            </tabular>
+                        </table>
                     </subsection>
                 </section>
                 <section>
@@ -2812,6 +3043,83 @@
                     </subsection>
                     <subsection>
                         <title>Scoring Rubric</title>
+                        <table>
+                            <tabular top="medium">
+                                <row bottom="medium">
+                                    <cell halign="center" colspan="2" left="medium" right="medium">
+        2 = independent, 1 = assistance required, 0 = no complete
+      </cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        Step
+      </cell>
+                                    <cell halign="right" right="medium">
+        Score
+      </cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        [.5em]Create a folder called "Math."
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        Create a file called Äddition."
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        Write an appropriate heading.
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        Leave a blank line between your heading and document.
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        Number the problems appropriately.
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        Switch between applications as necessary.
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        Use the calculator to obtain results.
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        Insert the result into a word document.
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        Clear the calculator when needed.
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                                <row bottom="medium">
+                                    <cell left="medium" right="medium">
+        Print or turn the document in as required.
+      </cell>
+                                    <cell halign="right" right="medium"></cell>
+                                </row>
+                            </tabular>
+                        </table>
                     </subsection>
                 </section>
                 <section>
@@ -2983,6 +3291,1268 @@
                             <p> You should see what's happening on the BrailleNote on the computer monitor.</p>
                         </li>
                     </ol>
+                </section>
+                <section>
+                    <title></title>
+                    <table>
+                        <tabular>
+                            <row>
+                                <cell colspan="3">
+        Student:
+      </cell>
+                                <cell colspan="2">
+        Grade:
+      </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell colspan="3">
+        School:
+      </cell>
+                                <cell colspan="2">
+        TSVI:
+      </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell halign="center" colspan="5" left="medium" right="medium">
+        Prompt Hierarchy / Scoring
+      </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium">
+        I = Independent
+      </cell>
+                                <cell>
+        FP = Full Physical
+      </cell>
+                                <cell>
+        PP = Partial Physical
+      </cell>
+                                <cell>
+        VP = Verbal Prompt
+      </cell>
+                                <cell right="medium">
+        VC = Verbal Cue
+      </cell>
+                            </row>
+                        </tabular>
+                    </table>
+                    <table>
+                        <tabular top="medium">
+                            <row>
+                                <cell left="medium" right="medium">
+        BRAILLENOTE APEX SKILL
+      </cell>
+                                <cell right="medium">
+        Pre
+      </cell>
+                                <cell right="medium">
+        Post
+      </cell>
+                                <cell right="medium">
+         80<percent /></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell halign="center" colspan="4" left="medium" right="medium">
+        ADVANCED SKILL LESSON 1
+      </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        1. Identify six Braille writer keys.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        2. Utilize the space and backspace.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        3. Use enter when necessary.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        4. Identify and make use of thumb-keys.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        5. Turn BrailleNote on/off independently.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        6. Plug in and use earbuds when appropriate.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        7. Unplug and store earbuds when finished.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        8. Exhibit care of the BrailleNote.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell halign="center" colspan="4" left="medium" right="medium">
+        ADVANCED SKILL LESSON 2
+      </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        9. Use initial letters to move to and open menu items.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        10. Use space + e to go back by level.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        11. Turn speech on and off (previous thumb-key + space).
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        12. Use on-screen help to solve problems on own (space + h).
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        13. Return to Main Menu from anywhere (space + dots123456).
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        14. Navigate menus using space, backspace, or thumb-keys.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell halign="center" colspan="4" left="medium" right="medium">
+        ADVANCED SKILL LESSON 3
+      </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        15. Create a new document in keyword.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        16. Open an existing Word processing document.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        17. Use the backspace key to delete the previous character.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        18. Use the cursor keys for editing.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        20. Review text using the thumb-keys.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        21. Use review commands as necessary.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell halign="center" colspan="4" left="medium" right="medium">
+        ADVANCED SKILL LESSON 4
+      </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        22. Create a new folder.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        23. Center a line of text (enter + c).
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        24. Use the delete menu in a document (space + d).
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        25. Obtain the time (enter + t).
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        26. Obtain the date (enter + d).
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell halign="center" colspan="4" left="medium" right="medium">
+        ADVANCED SKILL LESSON 5
+      </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        27. Obtain and read e-mail messages.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        28. Delete messages when required.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        29. Empty trash as appropriate.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        30. Create and send an e-mail message.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        31. Use e-mail for school and leisure tasks.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        32. Safely set up and remove cards and cables for internet use.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        33. Move to the top of documents, etc (space + 123).
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        35. Check text for spelling errors (space + 16).
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        36. Look up a word to determine how it is spelled.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        37. Use other spelling checker options as appropriate.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell halign="center" colspan="4" left="medium" right="medium">
+        ADVANCED SKILL LESSON 7
+      </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        38. Open the BrailleNote user guide (space + o, u).
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        39. Use the index within the user guide.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        40. Explore the table of contents in the user guide.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        41. Solve problems using the user guide.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell halign="center" colspan="4" left="medium" right="medium">
+        ADVANCED SKILL LESSON 8
+      </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        42. Open the Address Book.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        43. Add an address when necessary.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        44. Look up an address.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        45. Edit fields within an address record.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        46. Delete an address record.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell halign="center" colspan="4" left="medium" right="medium">
+        ADVANCED SKILL LESSON 9
+      </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        47. Send an e-mail attachment.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        48. Use the address selection list (backspace + L in to field).
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        49. Access and understand the e-mail action menu (space + 26).
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell halign="center" colspan="4" left="medium" right="medium">
+        ADVANCED SKILL LESSON 10
+      </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        50. Open the BrailleNote planner.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        51. Navigate around the Planner.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        32. Independently schedule an appointment.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        53. Re-schedule or delete an appointment.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        54. Check for next appointment (enter + n).
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell halign="center" colspan="4" left="medium" right="medium">
+        ADVANCED SKILL LESSON 11
+      </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        55. Open a web page.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        56. Move back and forward by link (space, backspace, initial letter).
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        57. Open a link (enter or click with cursor key).
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        58. Use input controls as necessary.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        59. Add to and use the favorites list.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        60. Use computer Braille when required.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell halign="center" colspan="4" left="medium" right="medium">
+        ADVANCED SKILL LESSONS 12  21
+      </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        61. Locate a book from desired site.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        62. Save and/or unzip book as required.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell halign="center" colspan="4" left="medium" right="medium">
+        ADVANCED SKILL LESSONS 13  27
+      </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        63. Open and exit the calculator.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        64. Complete math problems as necessary.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        65. Insert a calculation into a document (enter + i).
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        66. Switch between open programs (enter + backspace + letter).
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell halign="center" colspan="4" left="medium" right="medium">
+        ADVANCED SKILL LESSON 14
+      </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        67. Open the Book Reader.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        69. Read and/or navigate through a book.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        69. Exit a book when finished.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell halign="center" colspan="4" left="medium" right="medium">
+        ADVANCED SKILL LESSON 15
+      </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        70. Open the options menu.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        71. Manipulate Braille options.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        72. Exit options menu and return to BrailleNote task.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell halign="center" colspan="4" left="medium" right="medium">
+        ADVANCED SKILL LESSON 16
+      </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        73. Choose and open a game.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        74. Use help to learn to play a game.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        75. Exit the games area.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell halign="center" colspan="4" left="medium" right="medium">
+        ADVANCED SKILL LESSON 17
+      </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        76. Open the dictionary (space + o, L).
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        77. Look up a word.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        78. Read through the list of suggested words.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        79. Read through a list of word definitions.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        80. Insert look-up word into a document.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell halign="center" colspan="4" left="medium" right="medium">
+        ADVANCED SKILL LESSONS 18  19
+      </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        81. Print a document.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        82. Emboss a document.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        83. Obtain document from embosser or printer.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell halign="center" colspan="4" left="medium" right="medium">
+        ADVANCED SKILL LESSON 20
+      </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        84. Pair BrailleNote with Bluetooth for embossing or printing.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        85. Adjust port settings for Bluetooth.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        86. Emboss and/or print through Bluetooth device.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell halign="center" colspan="4" left="medium" right="medium">
+        ADVANCED SKILL LESSON 22
+      </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        87. Obtain information about a file when in a file list (space + i)
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        88. View other or all file types (space + x).
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        89. Copy a file to another location (backspace + y).
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell halign="center" colspan="4" left="medium" right="medium">
+        ADVANCED SKILL LESSON 23
+      </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        90. Open the block command menu (space + b).
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        91. Set top and bottom block markers.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        93. Delete text blocks when necessary.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell halign="center" colspan="4" left="medium" right="medium">
+        ADVANCED SKILL LESSON 24
+      </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        94. Open the Nemeth Tutorial (x from Main Menu).
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        95. Begin or continue a specific  lesson.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        96. Complete all exercises within a  lesson as instructed.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell halign="center" colspan="4" left="medium" right="medium">
+        ADVANCED SKILL LESSON 25
+      </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        97. Force computer Braille when in a document (backspace + j).
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        98. For grade 2 Braille (backspace + b).
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell halign="center" colspan="4" left="medium" right="medium">
+        ADVANCED SKILL LESSON 26
+      </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        99. Open the stopwatch (enter + w).
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        100. Start or stop the stopwatch (space).
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        101. Clear the stop watch (backspace + c).
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        102. Copy a stopwatch time onto the clipboard to paste into a document (backspace + k).
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell halign="center" colspan="4" left="medium" right="medium">
+        ADVANCED SKILL LESSON 28
+      </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        103. Enter the menu to change the font (enter + f).
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        104. Enter a desired letter to change the font.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        105. Turn an option on or off (n for on and f for off).
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        106. Leave a font item unchanged (enter).
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell halign="center" colspan="4" left="medium" right="medium">
+        ADVANCED SKILL LESSON 29
+      </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        107. Open and exit the FM tuner.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        108. Make adjustments to the FM tuner as desired.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell halign="center" colspan="4" left="medium" right="medium">
+        ADVANCED SKILL LESSON 30
+      </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        109. Insert the date and time into a document.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        110. Insert a calculation into a document.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell halign="center" colspan="4" left="medium" right="medium">
+        Independent Total:
+      </cell>
+                            </row>
+                        </tabular>
+                    </table>
+                    <table>
+                        <tabular top="medium">
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        BRAILLENOTE APEX SKILL
+      </cell>
+                                <cell halign="center" colspan="2" right="medium">
+        Rating
+      </cell>
+                                <cell right="medium">
+        Passed
+      </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium"></cell>
+                                <cell right="medium">
+        Student
+      </cell>
+                                <cell right="medium">
+        TSVI
+      </cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        1. Navigate among menus.
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        2. Basic Word Processing (writing, editing).
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        3. Advanced Word Processing (spell check, etc).
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        4. Switching between open documents and applications
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        5. Use Help and the User Guide
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        6. Complete e-mail tasks
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        7. Make use of the Address Book
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        8. Organize by using the Planner
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        9. Display basic Internet skills
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        10. Download books from Internet to BrailleNote
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        11. Utilize the BrailleNote calculator
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        12. Read books from within the Book Reader
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        13. Understand and use the Options Menu
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        14. Play games during leisure time
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        15. Use the dictionary
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        16. Print and/or emboss a document
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        17. Lean and enhance skills by using the Nemeth Tutorial
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        18. Explore use of the Stopwatch
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        19. Demonstrate appropriate use of the FM tuner
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+        20. Use the File Manager and Utilities Menus
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+         Total Independent
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+         Total Priority Need
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+         Total Future Need
+      </cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                                <cell right="medium"></cell>
+                            </row>
+                        </tabular>
+                    </table>
                 </section>
             </chapter>
             <chapter>
@@ -8475,7 +10045,937 @@
                 </section>
             </chapter>
             <chapter>
-                <title>BrailleNote Touch -- IN PROGRESS</title>
+                <title>BrailleNote Touch</title>
+                <section>
+                    <title>Overview of the BrailleNote Touch</title>
+                    <p>The BrailleNote Touch is a tablet with a Braille display. It comes in a protective carrying case that includes a Perkins-style keyboard.</p>
+                    <ul>
+                        <li>
+                            <p> The keyboard</p>
+                            <ul>
+                                <li>
+                                    <p> Six keys for Brailling</p>
+                                </li>
+                                <li>
+                                    <p> Enter key on the right</p>
+                                </li>
+                                <li>
+                                    <p> Backspace key on the left</p>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <p> The front edge of the tablet contains four thumb keys. From left to right:</p>
+                            <ul>
+                                <li>
+                                    <p> Previous</p>
+                                </li>
+                                <li>
+                                    <p> Pan left</p>
+                                </li>
+                                <li>
+                                    <p> Pan right</p>
+                                </li>
+                                <li>
+                                    <p> Next</p>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <p> In the middle of the front edge are three additional keys. From left to right:</p>
+                            <ul>
+                                <li>
+                                    <p> Triangular-shaped Back button</p>
+                                    <ul>
+                                        <li>
+                                            <p> Moves back one web page</p>
+                                        </li>
+                                        <li>
+                                            <p> Functions as an Escape key</p>
+                                        </li>
+                                        <li>
+                                            <p> Moves up through the directory hierarchy when using the File Manager.</p>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <p> Round Home button</p>
+                                    <ul>
+                                        <li>
+                                            <p> 	Takes you to the Main Menu. </p>
+                                        </li>
+                                        <li>
+                                            <p> 	Triple tap of the Home button unloads or loads Keysoft.</p>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <p> 	Square context key</p>
+                                    <ul>
+                                        <li>
+                                            <p> Tapping the square context key opens a context menu for any program that is running. </p>
+                                        </li>
+                                        <li>
+                                            <p>If you hold the context key down for about two seconds, a list of all running applications appears so that you can switch to any open application. </p>
+                                        </li>
+                                        <li>
+                                            <p> 	The applications list also contains a Clear All button which can be used to free up memory.</p>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <p> The back of the machine, from left to right: </p>
+                            <ul>
+                                <li>
+                                    <p> USB port</p>
+                                </li>
+                                <li>
+                                    <p> SD card slot</p>
+                                </li>
+                                <li>
+                                    <p> port for an HDMI monitor.</p>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <p> 	The right edge, from back to front:</p>
+                            <ul>
+                                <li>
+                                    <p> a microphone jack</p>
+                                </li>
+                                <li>
+                                    <p> a headphone jack distinguished by a slight ridge around it</p>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <p>Action button with a dot</p>
+                            <ul>
+                                <li>
+                                    <p> used to stop or start reading when using the Victor Reader</p>
+                                </li>
+                                <li>
+                                    <p> 	used to scan a document when using KNFB reader.</p>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <p> On the left edge of the machine, from back to front: </p>
+                            <ul>
+                                <li>
+                                    <p> Micro USB power port</p>
+                                    <ul>
+                                        <li>
+                                            <p> 	The BrailleNote Touch comes with a 6-foot micro USB cable and a wall charger. Plug the larger end of the USB cable into the wall charger and the small end of the cable into the power jack with the points facing down.</p>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <p> Concave-shaped Power/lock button</p>
+                                    <ul>
+                                        <li>
+                                            <p> To start the BrailleNote Touch, hold down the Power button for about two seconds. You will see a Starting message in Braille, then a dot moving in a circular motion. </p>
+                                        </li>
+                                        <li>
+                                            <p>When the machine boots up, press space+U to unlock the screen. </p>
+                                        </li>
+                                        <li>
+                                            <p> You can lock or unlock the screen of the BrailleNote Touch by tapping the Power/lock button.</p>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <p>Volume Up and Volume down keys.</p>
+                                    <ul>
+                                        <li>
+                                            <p> 	The volume controls offer a quick way to increase or decrease the volume. </p>
+                                        </li>
+                                        <li>
+                                            <p> 	They do the same thing as Enter+dot4 to increase volume, and Enter+dot1 to decrease volume.</p>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <subsection>
+                        <title>Starting the BrailleNote Touch</title>
+                        <p>Hold down the Power/lock button on the left side of the BrailleNote Touch for about two seconds. </p>
+                        <p>You will feel a quick vibration, and the Braille display will turn on. </p>
+                        <p>After 10 or 15 seconds, a Braille dot will move in a circular motion showing that the unit is starting. </p>
+                        <p>When you hear the Screen Locked message, press space+U to unlock the screen. </p>
+                        <p>When you want to lock the screen in order to save power, just tap the Power button; the Braille display will go blank. </p>
+                        <p>To unlock, tap the Power button again; then press space+U to unlock.</p>
+                    </subsection>
+                    <subsection>
+                        <title>Starting the Quick Tutorial</title>
+                        <p>You can turn on the Quick Tutorial at any time as follows.</p>
+                        <p>Press space+O for Options. </p>
+                        <p>Press M then Enter to open Miscellaneous Settings. </p>
+                        <p>Press L then Enter to launch the tutorial.</p>
+                        <p>You can now navigate through the tutorial by pressing the Next thumb key. </p>
+                        <p>You can exit the tutorial at any time by pressing space+dots4,5,6 to move to the end of the tutorial; then press Enter on the Exit Tutorial button.</p>
+                        <p>At this point, press the triangular-shaped Back button on the front of the machine to return to the Main Menu.</p>
+                    </subsection>
+                </section>
+                <section>
+                    <title>The Word Processor</title>
+                    <p>At the Main menu, open the Word Processor <em> letter w, then enter</em></p>
+                    <p>A menu appears with options </p>
+                    <p>Create <em> letter c, then enter</em></p>
+                    <p>Open <em> letter o, then enter</em></p>
+                    <p>Print <em> letter p, then enter</em></p>
+                    <p>Emboss <em> letter e, then enter</em></p>
+                    <p>Settings <em> letter s, then enter</em></p>
+                    <p>Settings includes several options including </p>
+                    <p>Manage personal dictionary, </p>
+                    <p>Spell checker language and an </p>
+                    <p>Option to set the Embosser IP Address to an embosser that supports embossing to the Cloud</p>
+                    <p>When done writing your document</p>
+                    <p>Exit and open the Save As dialog <em> space+e</em></p>
+				When prompted for a file name, type it and press enter
+				If this is the first time that you have saved a document, it will be saved in the Documents folder on the Storage drive. 
+				Open Save As dialog withotu exiting <em> backspace+s</em><p>Following is a list of commands that you can use to move around your document</p><p>Move to top of document <em> space+dots123</em></p><p>Move to bottom of document <em> space+dots456</em></p><p>Move to previous character <em> space+dot3</em></p><p>Move to next character <em> space+dot6</em></p><p>Move to previous word <em> space+dot2</em></p><p>Move to next word <em> space+dot5</em></p><p>Move to previous line <em> space+dot1 or Previous thumb-key</em></p><p>Move to next line <em> space+dot 4 or Next thumb-key</em></p><p>Move to previous paragraph <em> space+dots23</em></p><p>Move to next paragraph <em> space+dots56</em></p><p>Move to beginning of line <em> Enter+dots13</em></p><p>Move to end of line <em> ENTER+dots46</em></p><p>Page up <em> space+dots126</em></p><p>Page down <em> space+dots345</em></p><p>Pan Braille to the left <em> Left thumb-key</em></p><p>Pan Braille to the right <em> Right thumb-key</em></p><p>Change navigation level <em> space+t </em></p><p>Navigate to next navigation element <em> space+dots46</em></p><p>Navigate to previous navigation element <em> space+dots13</em></p><p>When you are writing UEB or English contracted Braille, the editing cursor is displayed as dots7,8. If you are editing computer Braille, the editing cursor is indicated by dot8 alone.</p></section>
+                <section>
+                    <title>Reading the Document Using Speech</title>
+                    <p>To start reading through your document using speech <em> space+g</em></p>
+                    <p>To stop reading <em> backspace+enter. </em></p>
+                    <p>the line on which you stopped reading will be displayed in braille.</p>
+                    <p>Continue reading through the document <em> right panning key</em></p>
+                    <p>To continue reading using speech</p>
+                    <p>Route the cursor to your current braille location <em> cursor routing button</em></p>
+                    <p>Continue reading with speeech <em>  press space+g </em></p>
+                    <subsection>
+                        <title>Creating a New folder on the SD card</title>
+                        <p>From Main menu, open File Manager <em> letter f, then enter</em></p>
+                        <p>You will land in the last folder that was open.</p>
+                        <p>To move among folders <em> triangular back button</em></p>
+                        <p>The BrailleNote Touch will say something like "alarms folder," meaning that you are in the list of folders on the internal storage drive.</p>
+                        <p>To move select internal deive or external SD card <em> triangular back button</em></p>
+                        <p>For internal storage <em> enter</em></p>
+                        <p>For SD Card <em> space+dot4 then enter. </em></p>
+                        <p>You will now be on a list of the folders that are located on the SD card.</p>
+                        <p>To create new folder <em> space+n</em></p>
+                        <p>Type desired name of folder, then enter.</p>
+                        <p>Return to the Main Menu <em> triangular Back button twice</em></p>
+                    </subsection>
+                </section>
+                <section>
+                    <title>Saving a Document in the New Folder</title>
+                    <p>At the Main Menu, open Word Processor <em> letter w, then enter</em></p>
+                    <p>Create a new document <em> letter c, then enter</em></p>
+                    <p>You can save this document even before you write anything</p>
+                    <p>Open Save dialogue <em> space+s.</em></p>
+                    <p>Type a new name for the document, but do not press enter. Notice that the edit box has changed to show your new document name. But if you press Enter, it will be saved in your Documents folder.</p>
+                    <p>Display current location <em> Previous thumb-key one time</em></p>
+                    <p>To open locaton dialogue <em> Previous thumb-key, then enter</em></p>
+                    <p>Toggle through options to Drive Selection <em> triangular Back button</em></p>
+                    <p>Toggle internal drive or SD Card <em> space+dot4 then press enter</em></p>
+                    <p>Press the first letter of the desired folder, then enter</p>
+                    <p>Open "select this folder" dialogue <em> letter s, then enter</em></p>
+                    <p>Open the save dialogue <em> Next thumb-key, then enter</em></p>
+                    <subsection>
+                        <title>Task</title>
+                        <p>At the Main Menu, open Word Processor <em> press w, then enter </em></p>
+                        <p>Create a file <em> letter c, then enter</em></p>
+                        <p>Open Save As dialogue <em> space+e</em></p>
+                        <p>Type file name but do not press enter </p>
+                        <p>Display current location <em> Previous thumb-key one time</em></p>
+                        <p>To open locaton dialogue <em> Previous thumb-key, then enter</em></p>
+                        <p>Toggle through options to Drive Selection <em> triangular Back button</em></p>
+                        <p>Open the Storage folder list <em> enter</em></p>
+                        <p>Toggle through options to Drive Selection <em> triangular Back button</em></p>
+                        <p>Toggle internal drive or SD Card <em> space+dot4 then press enter</em></p>
+                        <p>Press the first letter of the desired folder, then enter</p>
+                        <p>Open "select this folder" dialogue <em> letter s, then enter</em></p>
+                        <p>Open the save dialogue <em> Next thumb-key, then enter</em></p>
+                        <p>You are now back in the Save As dialog, and you are located on the file name.</p>
+                        <p>Activate the save dialogue <em> Next thumb-key twice, then enter</em></p>
+                        <p>Your new document has now been saved in the Documents folder, and you are ready to write down any messages.</p>
+                        <p>All additional files that you create will continue to be saved in the Documents folder until the next time you change the location.</p>
+                    </subsection>
+                </section>
+                <section>
+                    <title>Using the File Manager to move or copy files</title>
+                    <p>Many users will prefer to save all of their documents in the Documents folder without ever changing the location in which files are saved. They can then create folders wherever desired using the File Manager, and then copy or move those files to the new folder.</p>
+                    <p>In the following example, create a "Work" folder on your SD card. Then, quickly save a new phone messages file in the Documents folder, then move it to the Work folder.</p>
+                    <subsection>
+                        <title>Creating the Folder</title>
+                        <p>At the Main Menu, press F followed by Enter to open the File Manager.</p>
+                        <p>Press the Back button two times to get to Drive selection.</p>
+                        <p>Press space+dot4 to get to the SD card and press Enter to open it.</p>
+                        <p>Press space+N for New Folder; then type "work" and press Enter to create it.</p>
+                        <p>Press the Back button two times to return to the Main Menu.</p>
+                    </subsection>
+                    <subsection>
+                        <title>Creating the Phone Messages Document</title>
+                        <p>At the Main Menu, press W followed by Enter to open the Word Processor; then press C followed by Enter to create a new document.</p>
+                        <p>Press space+S; then type "phone Messages," and press Enter. The document will be Saved in the last location where files were saved; in this case, the Documents folder.</p>
+                        <p>Press space+E two times to return to the Main Menu.</p>
+                    </subsection>
+                    <subsection>
+                        <title>Copying the Phone Messages Document to the Work Folder</title>
+                        <p>At the Main Menu, press F followed by Enter to open the File Manager.</p>
+                        <p>Press D a couple of times to get to the Documents folder; then press Enter.</p>
+                        <p>Press the letter P to get to "Phone Messages.docx."</p>
+                        <p>Press Backspace+X to cut the file.</p>
+                        <p>Press the Back button two times to get to Drive selection.</p>
+                        <p>Press space+dot4 to arrow down to the SD card; then press Enter.</p>
+                        <p>Press W followed by Enter to open the Work folder.</p>
+                        <p>Press Backspace+V to paste the file into the Work folder.</p>
+                        <p>Press Home to return to the Main Menu.</p>
+                        <p>You now have a handy place to save phone messages.</p>
+                        <subsubsection>
+                            <title>Deleting Files</title>
+                            <p>For practice, delete any file as follows:</p>
+                            <p>From the Main menu, press F, then Enter, to open the File Manager.</p>
+                            <p>Press Enter to Open Storage.</p>
+                            <p>Press D until you get to Documents, then press Enter.</p>
+                            <p>Choose a file to delete.</p>
+                            <p>Press Backspace+dots2356; you will be asked if you want to delete the file.</p>
+                            <p>Press O for OK, then Enter to delete the file.</p>
+                        </subsubsection>
+                        <subsubsection>
+                            <title>Renaming Files</title>
+                            <p>When renaming files, it is best to use computer Braille. This allows inclusion of numbers or dates in file names if desired. It also helps with file extensions.</p>
+                            <p>Select the file and Press Backspace+R for Rename.</p>
+                            <p>Press Backspace+G to switch to computer Braille.</p>
+                            <p>Write the new file name, (including the extension), using computer Braille; then press Enter to complete the process.</p>
+                            <p>Remember to press Backspace+Space+G to switch back to literary Braille.</p>
+                        </subsubsection>
+                    </subsection>
+                    <subsection>
+                        <title>Opening Multiple Documents</title>
+                        <p>New in the version 3.0 firmware is the ability to work with multiple documents.</p>
+                        <p>Create a new document called "Practice1." When using UEB grade 2, you would write the file name as "dot6 practice Number sign 2."</p>
+                        <p>Press the context button; then press Enter to open File Functions.</p>
+                        <p>Choose Create new additional document and press Enter. The shortcut is Backspace+N.</p>
+                        <p>Press space+S; then type Practice2 and press Enter to create a second document.</p>
+                        <p>Press Backspace+N and save a third document as "Practice3."</p>
+                        <p>Press space+dots1,2,5,6 for Switch Documents.</p>
+                        <p>You can now copy or move text between the documents. This allows users to take notes on a document that they are reading.</p>
+                        <p>Press space+E or the Back button to close out of the documents one at a time.</p>
+                    </subsection>
+                    <subsection>
+                        <title>Nemeth on the BrailleNote Touch</title>
+                        <p>Create a new document in the Word Processor and save it as Math Homework.</p>
+                        <p>At the top, type "Math Homework," and press Enter.</p>
+                        <p>Center the title as follows:</p>
+                        <p>Arrow up to the title by pressing space+Up Arrow.</p>
+                        <p>Press the Context button.</p>
+                        <p>Arrow down to Format Functions and press Enter.</p>
+                        <p>Press Enter on the first choice which is Alignment.</p>
+                        <p>Arrow down to Align Center, (Enter+C), and press Enter.</p>
+                        <p>Press space+dots4,5,6 to move to the bottom of the document.</p>
+                        <p>Write the following:</p>
+                        <p>Problem 1. Compute the area of a circle having a radius of 9 feet.</p>
+                        <p>Press Backspace+M for the math editor. In the math editor, you can write up to 10 lines of math.</p>
+                        <p>Press Backspace+M to start the math editor.</p>
+                        <p>Write the following:</p>
+                        <p>When done, press Backspace+E to export your work to the clipboard. You will be returned to the Word document.</p>
+                        <p>Press Backspace+V to paste the math into your document.</p>
+                        <p>Now, type Answer: </p>
+                        <p>Press the Home button to go to the Main Menu.</p>
+                        <p>Press C followed by Enter to start the calculator.</p>
+                        <p>Using computer Braille, type 3.141592654$\ast$ 81 and press Enter.</p>
+                        <p>Press space+Enter+dots1,2,3,4,5,6 to select the result.</p>
+                        <p>Press Backspace+space+Y to copy the result to the clipboard.</p>
+                        <p>Hold down the Context key, choose KeyWord Menu, and press Enter. You will be returned to the document.</p>
+                        <p>Press Backspace+V to paste the answer into your document. See below.</p>
+                        <p>Math Homework</p>
+                        <p>A = pi$\ast$ r$ \string^ $ 2</p>
+                        <p>A = 3.141592654$\ast$ 9$ \string^ $ 2</p>
+                        <p>A = 3.141592654$\ast$ 81</p>
+                        <p>Answer: 254.469005</p>
+                        <p>Problem 2. Solve the following equation where Y = 2.</p>
+                        <p>X$ \string^ $ 2+y$ \string^ $ 2 = 29</p>
+                        <p>X$ \string^ $ 2+4 = 29</p>
+                        <p>X$ \string^ $ 2 = 25</p>
+                        <p>X = 5</p>
+                        <p>See Nemeth printouts at end of document.</p>
+                        <p>Lookup table. If you need to look up a math expression while using the math editor, press Backspace+dots3,5 to open the lookup feature. If you locate an item in the lookup table, pressing Enter will insert it into the equation editor.</p>
+                        <p>Note. If you need to edit a math expression after pasting it into your document, do the following:</p>
+                        <p>Route the cursor to the image using a cursor router button.</p>
+                        <p>Press Backspace+M to load The image into the math editor.</p>
+                        <p>Make any necessary changes.</p>
+                        <p>Press Backspace+E to export the math to the clipboard.</p>
+                        <p>Route your cursor to the paragraph following the image.</p>
+                        <p>Press Backspace until the math is deleted.</p>
+                        <p>Press Backspace+V to paste the corrected image into your document.</p>
+                        <subsubsection>
+                            <title>Viewing the Result</title>
+                            <p>Press Enter+V for Preview.</p>
+                            <p>Make sure that Drive PDF Viewer is checked.</p>
+                            <p>Press J then Enter for Just Once.</p>
+                            <p>Open the keyboard cover to display the problem.</p>
+                        </subsubsection>
+                    </subsection>
+                </section>
+                <section>
+                    <title>Setting up an Email Account on the BrailleNote Touch</title>
+                    <p>At the Main Menu, press E followed by Enter to start KeyMail. You will be prompted to set up an Email account when the Email app is started for the first time. You can have multiple Email accounts on the BrailleNote Touch. In the notes that follow, I will explain how to add a Gmail account.</p>
+                    <p>Press E followed by Enter to start Email.</p>
+                    <p>Press the square context button on the front of the machine.</p>
+                    <p>Press space+dot4 several times to arrow down to the Add Account option; then press Enter.</p>
+                    <p>You will be prompted for an Email address which must be written using computer Braille. So, use the Next or Previous thumb keys to navigate to the input field, and press one of the cursor routing buttons above the edit box to make sure you are in the edit field. Type the Email address using computer Braille. The At sign is entered by pressing dot4+dot7. The period is entered as dots4,6. Any numbers must be dropped Nemeth numbers, and no contractions are allowed.</p>
+                    <p>Press the Next thumb key to move to the Password field, and enter the password using computer Braille.</p>
+                    <p>Use the Next thumb key to move to the Next button, and press Enter. You will receive a "Validating Server Settings," message, and you will then be placed in the Account Settings list.</p>
+                    <p>Use Down Arrow and Up Arrow, (space+dot4 and space+dot1), to arrow through the list of settings. These include:</p>
+                    <p>Inbox checking frequency" Every 15 minutes.</p>
+                    <p>Notify me when Email arrives: This is checked by default. Many users uncheck this by pressing a cursor routing key above the checkbox so that they will not have interruptions.</p>
+                    <p>Sync Email from this account: Leave this checked.</p>
+                    <p>Automatically download attachments when connected to Wi-Fi: Leave this checked.</p>
+                    <p>At this point, move to the Next button and press Enter. You will receive an "Updating account," message.</p>
+                    <p>Press the Next thumb key. You will be prompted to give the account a name. You can give it a name like "Personal account," or just accept the default which is the Email address.</p>
+                    <p>Press the Next thumb key. You will be prompted to insert the name that will be displayed on outgoing messages. The default will be the name that was used when the BrailleNote Touch was set up initially, but you can enter another name if necessary.</p>
+                    <p>Move to the Next Button and press Enter. You will be returned to the Email menu. If you had a prior Email account, you will be returned to that account which is the default. For now, press space+E to exit from Email.</p>
+                    <subsection>
+                        <title>Switching to Your New Email Account</title>
+                        <p>Press E followed by Enter to start Email.</p>
+                        <p>Press the letter C to get to Current Account; then press Enter. You now have two choices.</p>
+                        <p>Press space+dot4 to arrow down; press space+dot1 to arrow up.</p>
+                        <p>So, choose your new account and press Enter.</p>
+                        <p>Now, when you press Enter on the first menu option which is New Message, you will be creating a new Email message in your new account.</p>
+                        <p>If you press Enter on the Read choice, you will land in the Inbox for your new account.</p>
+                    </subsection>
+                    <subsection>
+                        <title>Switching Back to Your Primary Account</title>
+                        <p>Press the Back button, (the left-pointing triangle on the front of the machine, to return to the Keymail menu.</p>
+                        <p>Press C for Current Account; then press Enter.</p>
+                        <p>Arrow to your primary account and press Enter. You will now be in the menu for your primary account.</p>
+                    </subsection>
+                    <subsection>
+                        <title>Sending and Receiving Email Messages</title>
+                        <p>Like the other Keysoft applications, the Keymail app can be run using either the context menus or the shortcuts which are displayed in the context menu.</p>
+                        <subsubsection>
+                            <title>Sending an Email Containing an Attachment</title>
+                            <p>Press E then Enter to start Email.</p>
+                            <p>Press Enter on the New Message option which is the first choice.</p>
+                            <p>Type the recipient's Email address in the To field using computer Braille; then press the Next thumb key to get to the Subject field. When you route the cursor into the subject field, dots7,8 indicates that literary Braille can be used. So, type the Subject; then press the Next thumb key to get to the Compose edit box. Again, routing the cursor into this field indicates that literary Braille can be used.</p>
+                            <p>Type your message. At this point, if you just want to send the message, press Backspace+S to send it.</p>
+                            <p>But we need to add an attachment.</p>
+                            <p>Tap the square context button.</p>
+                            <p>Arrow down to the Attach file option; then press Enter. You can locate a file to attach in your documents folder as follows:</p>
+                            <p>Press the Triangular Back button until you get to Drive Selection.</p>
+                            <p>Press Enter on Storage.</p>
+                            <p>Press the letter D until you get to the Documents folder; then press Enter.</p>
+                            <p>Use first-letter navigation or arrow down to the file that you wish to attach; then press Enter. The file will be attached, and you will be returned to the Compose field.</p>
+                            <p>Pressing the Previous thumb key will show that an Open Attachments View field has been added.</p>
+                            <p>Press Backspace+S to send the message containing your attachment. You will be returned to the Keymail menu.</p>
+                        </subsubsection>
+                        <subsubsection>
+                            <title>Receiving Messages Containing Attachments</title>
+                            <p>Press E then Enter to start Email.</p>
+                            <p>Press R for Read; then press Enter.</p>
+                            <p>Arrow down until you come to an Email that "has attachments," then press Enter.</p>
+                            <p>Press the Previous thumb key until you get to the "Open Attachments View," button and press Enter.</p>
+                            <p>Or, tap the square context button and press Enter on the first choice which is "Toggle View attachments."</p>
+                            <p>Arrow down to the attachment; then press Enter. You will land on a list of three items including Open, Save, and Download again.</p>
+                            <p>Choose Save and press Enter.</p>
+                            <p>The attachment will be saved in the Downloads folder. You can open it as follows:</p>
+                            <p>Press Home to go to the Main Menu.</p>
+                            <p>Press the letter F then Enter to open the File Manager.</p>
+                            <p>Press the Back button until you get to the root of the storage area. When you are there, you may hear something like "Alarms," which is an Android folder at the root of the internal storage drive.</p>
+                            <p>Press the letter D several times to get to the Download folder; then press Enter.</p>
+                            <p>Locate the attachment; then press Enter to open it.</p>
+                            <p>Or, you can press Control+X to cut the attachment to the clipboard and then paste it into another folder. </p>
+                        </subsubsection>
+                    </subsection>
+                    <subsection>
+                        <title>Handy Email Shortcuts</title>
+                        <p>Create new message: space+N.</p>
+                        <p>Change Email folder: Enter+B.</p>
+                        <p>Search: space+F.</p>
+                        <p>Move message to another folder: While in Inbox, tap Context button, then locate Move To and press Enter. Choose the folder to which you wish to move the message; then press Enter.</p>
+                        <p>Send message: Backspace+S.</p>
+                        <p>Mark message: dots1,2,3,7.</p>
+                        <p>Delete single message or marked messages: Backspace+dots2,3,5,6.</p>
+                        <p>Add Cc/Bcc fields: When in Compose field, tap Context button, locate Cc/Bcc choice; then press Enter. You can now press your Previous thumb key several times to locate your Cc and Bcc fields. After filling them in, press the Next thumb key several times to return to the Compose field; then press Backspace+S to send the Email.</p>
+                        <p>Refresh Email: While in the Inbox, locate Refresh in the context menu, or press Enter+R for Refresh.</p>
+                    </subsection>
+                </section>
+                <section>
+                    <title>Applications for the Classroom</title>
+                    <p>Popular applications that can be installed on the BrailleNote Touch include Simple Dictionary for word look-up, Go Read for downloading books from Bookshare, Powerpoint from Microsoft for viewing Powerpoint documents, Easy PDF for converting PDF documents to Word format, HP Print Service Plugin for printing to HP printers using the USB port, and Easy Unrar for unzipping archives. In the following sections, I will show how to download an application from the Play Store, and then use these applications.</p>
+                    <p>these applications.</p>
+                    <subsection>
+                        <title>Simple Dictionary</title>
+                        <subsubsection>
+                            <title>Installing the Simple Dictionary</title>
+                            <p>If this app has not been pre-installed, you can install it once the student's school account has been set up. Do this as follows:</p>
+                            <p>At the Main Menu, press the letter P until you get to Play Store; then press Enter.</p>
+                            <p>Press S to get to the Search button; then press Enter.</p>
+                            <p>In the Search box, type "simple dictionary," without the quotation marks; then press Enter.</p>
+                            <p>Arrow down to the Simple Dictionary app.</p>
+                            <p>Arrow down one more time to get to the Options button; then press Enter.</p>
+                            <p>Choose Install and press Enter.</p>
+                            <p>When prompted for App Permissions, press space+dots4,5,6 to get to the Accept button at the bottom of the screen and press Enter.</p>
+                            <p>When installation is complete, you will receive the "Successfully installed Simple Dictionary message.</p>
+                        </subsubsection>
+                        <subsubsection>
+                            <title>Using the Word processor and File Management with Simple Dictionary</title>
+                            <p>At the Main menu, press W followed by Enter to open the Word Processor menu.</p>
+                            <p>Press C followed by Enter to create a new document.</p>
+                            <p>Press Space+S to open the Save As dialog.</p>
+                            <p>Type "Dictionary Word List," for the file name; then press Enter. By default, the document will be saved in the Documents folder unless the location for saving files has been changed. You are now ready to write your document.</p>
+                            <p>For the title, write "Word Lookup Assignment," and press Enter two times to create a new paragraph.</p>
+                            <p>Press Space+S to save the changes.</p>
+                            <p>Press Space+E to close the word processor.</p>
+                        </subsubsection>
+                        <subsubsection>
+                            <title>Using File Manager to Create a Folder for Class Documents</title>
+                            <p>At the Main menu, press F then Enter to open the File Manager.</p>
+                            <p>Press Enter to open Storage; then press D until you get to Documents; then press Enter.</p>
+                            <p>Press W to get to the Word Definitions document: then press Backspace+X to cut it to the Clipboard.</p>
+                            <p>Press the triangle-shaped Back button until you get to Drive Selection; then arrow down to the SD Card and press Enter.</p>
+                            <p>Press Space+N for New Folder; then type "English," without the quotation marks and press Enter to create the folder.</p>
+                            <p>At this point, press Enter to open the folder; then press Backspace+V to paste the word definitions document into the English folder.</p>
+                            <p>Now, press Enter on the "word definition.docs," file to open it.</p>
+                        </subsubsection>
+                        <subsubsection>
+                            <title>Using the Dictionary</title>
+                            <p>Open the dictionary program as follows:</p>
+                            <p>Press Home to go to the Main Menu.</p>
+                            <p>Press A then Enter to open All applications.</p>
+                            <p>Press D then Enter to open the dictionary.</p>
+                            <p>In the search box, type "ubiquitous" and press Enter.</p>
+                            <p>You can now read through the definition.</p>
+                            <p>While reading the definition, press a cursor router button. Buttons will appear that allow you to copy either the word or its definition. Press the Next thumb key a couple of times to get to the Copy Definition button; then press Enter. The definition will be copied to the clipboard.</p>
+                            <p>At this point, hold down the square context key to show all applications.</p>
+                            <p>Choose KeyWord and press Enter.</p>
+                            <p>Press Backspace+V to paste the definition into your document.</p>
+                        </subsubsection>
+                    </subsection>
+                    <subsection>
+                        <title>Using Go Read to Search for Bookshare Books</title>
+                        <p>At the Main Menu, press A followed by Enter to open All Applications.</p>
+                        <p>Press G until you get to Go Read; then press Enter.</p>
+                        <p>Press O followed by Enter to access the Open Drawer menu.</p>
+                        <p>Press S to locate the Search Bookshare option; then press Enter.</p>
+                        <p>Arrow down through the search options which include:</p>
+                        <p>Title Search;</p>
+                        <p>Author Search;</p>
+                        <p>ISBN Search;</p>
+                        <p>Latest Books;</p>
+                        <p>Popular Books, and</p>
+                        <p>Newspapers and Magazines.</p>
+                        <p>For this example, choose Title Search and press Enter.</p>
+                        <p>In the edit box, type "Call of the Wild," and press Enter.</p>
+                        <p>The second result is Call of the Wild by Jack London. Choose this one and press Enter. Book Details will open.</p>
+                        <p>Use the Next thumb key to navigate through the book details.</p>
+                        <p>These include Title, Author, Download (text only)</p>
+                        <p>Download book with images</p>
+                        <p>ISBN: and</p>
+                        <p>Language:</p>
+                        <p>If you decide that you want another book, press the Back key, (the triangular button on the front of the Touch, to move to the Previous page.</p>
+                        <p>For now, choose Call of the Wild. To do this, use the Next or previous thumb keys to choose the Download (text only) button and press Enter. You will hear a message when the book has been downloaded.</p>
+                        <p>Now, press the Home button to return to the Main Menu.</p>
+                        <subsubsection>
+                            <title>Using Victor Reader</title>
+                            <p>At the Main Menu, press V followed by Enter to open Victor Reader.</p>
+                            <p>Press space+B to open the Bookshelf.</p>
+                            <p>Press space+dot4 two times to arrow down to Talking books; then press Enter.</p>
+                            <p>Arrow to the book that was downloaded, Call of the Wild, then press Enter to open it.</p>
+                            <p>Tap the square context menu button located on the front of the Touch.</p>
+                            <p>The following menu appears:</p>
+                            <p>Bookshelf menu: space+B.</p>
+                            <p>Go to options menu: Enter+G.</p>
+                            <p>Bookmark menu: Enter+M.</p>
+                            <p>Navigation level menu: space+T.</p>
+                            <p>Move to previous element: space+dots1,3.</p>
+                            <p>Move to Previous element while playing: Previous Thumb Key.</p>
+                            <p>Move to next element: space+dots4,6.</p>
+                            <p>Move to next element while playing: Next thumb key.</p>
+                        </subsubsection>
+                        <subsubsection>
+                            <title>Reading the book</title>
+                            <p>When the book opens, press space+T to open the navigation level menu. You will land on level 1. Press Enter to accept navigation by heading 1.</p>
+                            <p>At this point, press space+dots4,6 to move forward one section at a time.</p>
+                            <p>The following headings will be displayed in Braille:</p>
+                            <p>Contents.</p>
+                            <p>Title Page.</p>
+                            <p>Introduction.</p>
+                            <p>Chapter 1.</p>
+                            <p>Chapter 2.</p>
+                            <p>And so forth.</p>
+                            <p>Note that, as you move forward by pressing space+dots4,6, the headings are shown in Braille, but are not spoken.</p>
+                            <p>When you get to the point where you wish to start reading using speech, press the Action button located on the right edge of the tablet. This button has a small dot, and is located just below the headphone jack. Pressing this button one time starts reading with speech; pressing it again stops reading. Alternatively, you can use space+G to start reading. When you wish to stop reading, press Backspace+Enter to stop.</p>
+                            <p>For practice, choose Chapter 1 and press the Action button. When you wish to stop reading, press the Action button to stop.</p>
+                            <p>Suppose that you are reading with speech, and wish to skim through the book.</p>
+                            <p>Press the Action button to start reading.</p>
+                            <p>Now, while the book is being read, press Space with dots4,6 to move to the next section. The book will continue reading at the new section.</p>
+                        </subsubsection>
+                        <subsubsection>
+                            <title>Bookmarks</title>
+                            <p>Normally, when you return to a book that you have been reading, reading will be resumed where you left off. However, it is a good idea to use bookmarks to keep you from losing your place.</p>
+                            <p>You can create a bookmark as follows:</p>
+                            <p>Open the bookmark menu from the menu, or press Enter with M.</p>
+                            <p>Press the letter I followed by Enter to insert a bookmark.</p>
+                            <p>Type a 1 followed by Enter to insert Bookmark 1. You must use computer Braille, so this would be a dot2.</p>
+                            <p>Press space with dots1,2,3 to return to the beginning of the book.</p>
+                            <p>Press Space with M; then G followed by Enter to open the Go to Bookmark option.</p>
+                            <p>Type 1 followed by Enter to go to bookmark 1. The message, "bookmark 1,"</p>
+                            <p>will appear for a couple of seconds. Then, you will be at the point where you stopped reading.</p>
+                            <p>Note that you can use the panning keys to pan forward or backward through the book using Braille.</p>
+                            <p>When done reading, press Space with E to exit from Victor Reader and return to the Main Menu.</p>
+                        </subsubsection>
+                    </subsection>
+                    <subsection>
+                        <title>Converting PDF Documents to Word Using Easy PDF</title>
+                        <p>Suppose that you have a PDF file in Google Drive that you need to convert.</p>
+                        <p>Press A then Enter to open All Applications.</p>
+                        <p>Press D until you get to Drive; then press Enter.</p>
+                        <p>In this example, I am looking for a file called "The Outsiders Comprehension Questions." So, press the letter T to get to it.</p>
+                        <p>Once the file is located, arrow down one time to get to the More Actions button; then press Enter.</p>
+                        <p>Use space+dot4 to arrow down to the Download option; then press Enter. You will be notified that one file will be downloaded.</p>
+                        <subsubsection>
+                            <title>Converting the File</title>
+                            <p>At the Main Menu, press A then Enter for All Applications.</p>
+                            <p>Press E to get to EasyPDF; then press Enter.</p>
+                            <p>Press P for PDF-to-word and press Enter.</p>
+                            <p>An Open From message appears at the top of the screen, so arrow down to get to Downloads and press Enter.</p>
+                            <p>choose the Outsiders Questions file and press Enter. You will be advised that the file is converting. When it is done, it will open in Word.</p>
+                            <p>Save the file in your Documents folder as follows:</p>
+                            <p>Press Backspace+S to open the Save As dialog.</p>
+                            <p>Press the Previous thumb key two times to get to the Location button; then press Enter.</p>
+                            <p>Press the triangular Back button several times to get to the list of folders in storage.</p>
+                            <p>Press the letter D until you get to Documents; then press Enter.</p>
+                            <p>Press S to get to the Select This Folder button; then press Enter.</p>
+                            <p>Press the Next thumb key two times to get to the Save button; then press Enter. The word document will be saved in your documents folder.</p>
+                            <p>You can now answer the questions, use Save As to add your name to the file name, and then share it back to google Docs as follows.</p>
+                            <p>Open the Documents folder using File Manager.</p>
+                            <p>Locate the file that you wish to share.</p>
+                            <p>Tap the context button; press S for Share; then Enter.</p>
+                            <p>Check the Save to Drive option.</p>
+                            <p>Press J followed by Enter for Just once.</p>
+                            <p>Press the Next thumb key until you get to the Save button; then press Enter to upload the file.</p>
+                            <p>From time to time, it is a good idea to clear the folder where converted PDF files are normally saved.</p>
+                            <p>Locate the EasyPDF app, but do not press Enter.</p>
+                            <p>Tap the square context button and press Enter on Open App Info.</p>
+                            <p>Press C to locate the Clear Data button; then press Enter. Now, press Enter on OK to clear the data.</p>
+                        </subsubsection>
+                    </subsection>
+                    <subsection>
+                        <title>Using the Powerpoint App from Microsoft</title>
+                        <p>First, go into the Play Store and search for "Powerpoint Microsoft."</p>
+                        <p>Install the app.</p>
+                        <p>For this example, I downloaded a Powerpoint called "Sea Floor Spreading," that I had stored on Google Drive. So, I will open it from the Download folder.</p>
+                        <p>Locate the file using File Manager; then press Enter.</p>
+                        <p>You will be prompted to open the app using:</p>
+                        <p>Make sure that Powerpoint is checked.</p>
+                        <p>Press J for Just once; then press Enter.</p>
+                        <p>When the file loads, press P to get to the Present button; then press Enter.</p>
+                        <p>To navigate using gestures, do the following:</p>
+                        <p>Press the Previous+Next thumb keys to turn off Touch Braille; then lift the keyboard cover to display the screen of the tablet.</p>
+                        <p>When you touch near the top of the screen, the slide title will be spoken and displayed in Braille.</p>
+                        <p>When you touch the slide content, you can pan through the text using your panning keys.</p>
+                        <p>Swipe left with two fingers to move to the next slide.</p>
+                        <p>Swipe right with two fingers to move to the previous slide.</p>
+                        <p>When done, close the keyboard cover and press the Previous+Next thumb keys to turn Touch Braille on.</p>
+                        <p>Press Home to return to the Main Menu.</p>
+                    </subsection>
+                </section>
+                <section>
+                    <title>Printing to the HP Printer with a USB Cable</title>
+                    <subsection>
+                        <title>Setting up the HP Printer</title>
+                        <p>Install the HP Service Plugin from the Play Store. </p>
+                        <p>From the Main Menu, press the letter P two times to get to the Play Store, then press Enter. </p>
+                        <p>Choose Search Google Play; and press Enter. </p>
+                        <p>In the search box, type HP Service Plugin; then press Enter. </p>
+                        <p>Locate the HP Print Service Plugin app; click the Options button, Then click Install and accept permissions using the App Permissions button. The plugin will be installed. </p>
+                        <p>Return to the main menu. </p>
+                        <p>Press Space with O for Options. </p>
+                        <p>Press A for Android System Settings; then press Enter. </p>
+                        <p>Press P for Printing; then press Enter. Printing Services will open. </p>
+                        <p>Locate the HP Inc. Off setting and press Enter. </p>
+                        <p>Check the checkbox; then use your Next thumb key to locate the Ok button and press Enter. This will turn on HP print services. </p>
+                    </subsection>
+                    <subsection>
+                        <title>Printing a Document</title>
+                        <p>Press the Home button to return to the Main menu. </p>
+                        <p>Plug in the printer's USB cable. You will be advised that a USB device has been attached. Press the Home button or space+dots1,2,3,4,5,6 to return to the Main menu. You can now print a document as follows. </p>
+                        <p>Press W for Word Processor; then press Enter. </p>
+                        <p>Press P for Print; then press Enter. </p>
+                        <p>Choose a document to print; then press Enter. You will receive a Complete Action Using message from the Android system. </p>
+                        <p>Make sure that Drive PDF Viewer is checked. </p>
+                        <p>Press J for Just Once; then press Enter. A PDF version of the document will be loaded. </p>
+                        <p>Press Space with M or the square context menu button. This will open the Send File option. </p>
+                        <p>Now, press P for print then press Enter to open the document and bring up the Print dialog. </p>
+                        <p>Press space+dots4,5,6 to get to the Print button at the bottom of the dialog, and press Enter. Your document will be printed. </p>
+                    </subsection>
+                    <subsection>
+                        <title>Checking your Document with KNFB Reader</title>
+                        <p>Unplug the USB port; the BrailleNote will say USB device detached. </p>
+                        <p>At the Main menu, press K for KNFB Reader; then press Enter. </p>
+                        <p>After the program loads, you can use Space with dot 4 to get down to the Take picture option. Or, you can take a picture using the Action button on the right edge of the BrailleNote Touch. The Action button is easier if you are holding the BrailleNote. After a second or two, the text will appear in Braille. </p>
+                        <p>Note. To take the picture, you can close the BrailleNote keyboard case, and then hold the machine 8 to 10 inches above the page. Press the Action button to take the picture. </p>
+                        <p>Note on settings. </p>
+                        <p>You can check Tilt Guidance which will let you know if the Touch is being held level. </p>
+                        <p>Right below the Take Picture option is a Field of View Report option. You can press Enter or click the field of view report. If it says all 4 edges and all 4 corners are available, you will get the best picture. </p>
+                        <p>By default, the pages are not saved. There is a Save Document button, as well as automatic and batch modes. For these to work efficiently, you would want to set up a stand of some type. But even without a stand, KNFB Reader is a very handy way to make sure that your document actually printed, and it is very helpful for reading a handout that you might receive in class.</p>
+                    </subsection>
+                </section>
+                <section>
+                    <title>Appendix A setting up the BrailleNote touch for the First Time</title>
+                    <p>To turn on the BrailleNote Touch, hold down the Power button for about 2 seconds. A "Starting Keysoft," message will appear in Braille. After about 5 seconds, a Braille hourglass will appear represented by a dot moving in a circular motion. The first time you start the BrailleNote Touch, a Welcome message will appear. At this point, pressing the right-most thumb key will take you through an excellent tutorial that will help you get started. If you need to increase speech volume, press the Volume Up key several times.</p>
+                    <p>To exit the tutorial, press Space+dots4,5,6; you will land on the Exit Tutorial button. Press Space+dot1 a couple of times to arrow up to the "Do not launch this tutorial next time I Restart," checkbox, and check it by pressing a cursor router key above the box. Now, press Space+dots4,5,6 to return to the "Exit Tutorial," button and press Enter. This will exit the tutorial and open the Setup Wizard dialog. You can re-start the tutorial any time from the Options menu, (see below).</p>
+                    <p>When you exit the tutorial, a Startup dialog will open. By default, the English language is selected – so press Space+dots4,5,6 to move to the end of the dialog; you will land on the Start button. Here, press Enter.</p>
+                    <p>You will be prompted to select a Wi-fi connection. Arrow to your Wi-fi connection by using the arrow keys: Space+dot4 for Down Arrow or Space+dot1 for up arrow; then press Enter.</p>
+                    <p>You will be prompted for a password which must be typed in computer Braille. Press a cursor routing key above the edit box; then type the password. An eight-dot computer Braille code is used. Letters are typed normally with no contractions. Use dot7 to capitalize a letter – for example, you would make a capital A by pressing dots1,7. dot7 is created by pressing the Backspace key. Numbers are dropped Nemeth numbers. Period is created using dots4,6. An At sign is created by pressing dots4,7. A computer Braille table is included as Appendix A.</p>
+                    <p>After typing the Password, Press the Next thumb key until you get to the Connect button; then press Enter, or press one of the cursor routing keys above the Connect button.</p>
+                    <p>When the connection has been established, you will receive a "Got Google," message. Since most school accounts require that you use Chrome to log into the school account, I skip this account setup process and have a District IT representative set up the account. But for this example, I will show how to set up a standard Google account.</p>
+                    <p>Press Space+dots4,5,6 to get to the end of the dialog and click the Yes button.</p>
+                    <p>Enter the account Email and Password using computer Braille; then press Enter on the Next button.</p>
+                    <p>When the Google Services message appears, press Space+dots4,5,6 to get to the OK button; then press Enter. You will get a "Signing in" message.</p>
+                    <p>When the Google Terms window appears, press space+dots4,5,6 to get to the bottom of the screen and press Enter on the Next button.</p>
+                    <p>At this point, you will be prompted for the user's First and Last Name. These can be entered using either contracted or uncontracted Braille. This is important, because it is used to identify the machine and is automatically inserted when, for example, you create a new Email address. The user's first and last name is required even if you skip account setup.</p>
+                    <p>Enter the first name; press the Next thumb key, and then enter the last name. When you press the Next thumb key after entering the last name, the account will be created and you will be at the Main Menu.</p>
+                    <subsection>
+                        <title>Connecting to Wi-fi</title>
+                        <p>Students can quickly connect to Wi-fi at school or at home as follows:</p>
+                        <p>At the Main Menu, Press Enter+Q for quick settings.</p>
+                        <p>Press Space+dot4 to arrow down to Wifi disconnected and press Enter.</p>
+                        <p>Arrow down to desired network and press Enter.</p>
+                        <p>In the edit box, type the network password using computer Braille; then press the Next thumb several times to get to the Connect button and press Enter.</p>
+                    </subsection>
+                    <subsection>
+                        <title>Connecting to a School Account</title>
+                        <p>It is possible to set up the BrailleNote Touch and add the user's name, but skip account setup. To set up the account at a later time, press Space+O for Options, and then press A followed by Enter to open Android settings.</p>
+                        <p>Press A two times to get to Add account; then press Enter.</p>
+                        <p>Press G for Google; then press Enter.</p>
+                        <p>Press E to get to the existing account button; then press Enter.</p>
+                        <p>Enter the Email address using computer Braille; then press the Next thumb key to get to the password box and enter the password. Now, press the Next thumb key to get to the Next button and press Enter. On the next screen for the Google agreement, press Space+dots4,5,6 to get to the OK button and press Enter. On the next screen, Google Services, choose the Next button and press Enter.</p>
+                        <p>At this point, press the Home button to return to the main menu.</p>
+                    </subsection>
+                    <subsection>
+                        <title>Note on School Accounts</title>
+                        <p>Many\ school accounts  require that you connect to the Internet using the Chrome browser before the account can be set up. An IT person can do this quickly as follows:</p>
+                        <p>Triple-tap the Home button to unload Keysoft.</p>
+                        <p>Click All Applications; then choose Chrome and complete the account setup.</p>
+                        <p>Triple-Tap the Home button to Enable Keysoft.</p>
+                        <p>You will now be able to download apps from the Play Store and share documents with Google Drive.</p>
+                    </subsection>
+                    <subsection>
+                        <title>User Settings</title>
+                        <p>Personalized preferences can be set up as follows:</p>
+                        <p>Press Space+O for the Options menu.</p>
+                        <p>Use Space+dot4 to arrow down to Configure Primary Language profile and press Enter. Leave the text-to-speech engine set to BrailleNote Touch Acapela for now.</p>
+                        <p>Continue pressing the Next thumb key until you get to Preferred Braille Grade for entry. Leave this on the default which is Literary Braille.</p>
+                        <p>Leave Preferred Braille Grade for Display set to Literary Braille.</p>
+                        <p>Leave Computer Braille Table set to English US, Liblouis.</p>
+                        <p>Now, when you press the Next thumb key, you get to Literary Braille Table, English UEB Duxbury grade 1. Press Enter to open available options.</p>
+                        <p>Choose the first choice, English UEB Grade 2, then press Enter to select it.</p>
+                        <p>Now, press the triangular Back button on the front of the machine, or press Space+E to return to the Options menu. And press the Next thumb key.</p>
+                        <p>If you wish, you can configure the Secondary Language profile to English UEB Duxbury as well. That way, if someone presses Enter+L, (the profile toggle), and inadvertently loads the secondary English profile, the Braille setting won't change.</p>
+                        <p>For now, arrow down to Keyboard Settings and press Enter.</p>
+                        <p>The first option, Keyboard Echo, is set to both characters and words by default. Most students prefer either Word echo or no echo. For now, change it to Word echo as follows:</p>
+                        <p>Press Enter on Keyboard Settings.</p>
+                        <p>Arrow down to Words and press Enter to set it.</p>
+                        <p>Now, arrow down to the Keyboard Clicks checkbox and press a cursor routing key above the box to uncheck it, (most students prefer a quiet keyboard when taking notes in class).</p>
+                        <p>We don't need to reconfigure the thumb keys at this point, so press the Back button or Space+E to return to the Options menu.</p>
+                        <p>Next, arrow down to Miscellaneous Settings and press Enter.</p>
+                        <p>Arrow down to Navigation Sounds and press a cursor routing key above the box to uncheck it.</p>
+                        <p>Tutorial. If you arrow down two more times, you will come to Launch Tutorial. If you press Enter on this option, the introductory tutorial will be loaded.</p>
+                        <p>For now, press Down Arrow, (Space+dot4), two more times to get to Format Markers settings. This is an option that students may wish to change from time to time. The default is to include a $\$$ P as a marker whenever there is a hard line break; example, to show one or two blank lines between paragraphs. This looks like "edp" in Braille. This is good for editing; for example, when changing paragraph settings while formatting a document, or when editing a document containing Nemeth where it may be necessary to delete a paragraph containing a math image.</p>
+                        <p>However, when reading documents or books, most students prefer that a paragraph starts on a new line with a two-space indent at the left. You can set this as follows:</p>
+                        <p>Press Enter to open Format Markers settings.</p>
+                        <p>Arrow down to New Line Rendering, and press Enter. This is set, by default, to New Line Marker. Press Enter to change it.</p>
+                        <p>Arrow down to the two spaces option; then press Enter to set it.</p>
+                        <p>Now, arrow down about 7 times to get to Braille Message Display time in seconds. This determines how long a message is displayed in Braille. The default is 3 seconds; however, fast Braille readers may prefer 1 or 2 seconds. Press Enter. You will be prompted to enter a value of 1 to 30 seconds in computer Braille. For now, press 2 and then Enter to set it.</p>
+                        <p>At this point, press the Back button or Space+E to return to the Options menu.</p>
+                        <p>Here, press the letter A to get to Android System settings; then press Enter. We want to change the display duration setting. This is because the default setting of 2 minutes will cause the screen to lock whenever the BrailleNote Touch is inactive for two minutes. At this point, the student must tap the Power button and press Space+U to unlock the screen.</p>
+                        <p>Press the letter D two times to get to Display; then press Enter. The default is shown as 2 minutes.</p>
+                        <p>Now,\ press Enter to show the options.  Most students arrow down to 30 minutes and press Enter to set it. If this is done, it is important to lock the screen manually by tapping the Power button to lock the screen whenever the BrailleNote Touch will be inactive. This saves power.</p>
+                        <p>We are done with Settings, so press the triangle-shaped Back button about five times to return to the Main Menu.</p>
+                    </subsection>
+                </section>
+                <section>
+                    <title>Appendix B Tutorials</title>
+                    <subsection>
+                        <title>Using the BrailleNote Touch Tutorial with the Victor Reader App</title>
+                        <p>The BrailleNote Touch audio tutorial was developed by Mystic Access, and is available on the SD card that comes with the BrailleNote Touch. It is provided in both DAISY and MP3 format. You can listen to this tutorial as follows:</p>
+                        <p>At the Main Menu, press V then Enter to open the Victor Reader Application.</p>
+                        <p>Press space+B to open the Bookshelf menu.</p>
+                        <p>Press T then Enter to open the Talking Books bookshelf. You will land in the booklist menu.</p>
+                        <p>Press B !locate the BrailleNote Touch audio tutorial; then press Enter. The tutorial will start with an introductory message.</p>
+                        <subsubsection>
+                            <title>The Victor Reader Context Menu</title>
+                            <p>Tap the square context menu button on the front edge of the machine to open the context menu. Use space+dot4 to move down through the menu; press space+dot1 to move up through the menu. A review of this menu shows the following choices:</p>
+                            <p>Bookshelf menu: space+B.</p>
+                            <p>Go to Options menu, space+G</p>
+                            <p>Bookmark menu: Enter+M</p>
+                            <p>Navigation level menu: space+T. Allows you to choose the element for navigating through the book. For example, you might move by heading or by page.</p>
+                            <p>Move to Previous Element: space+dots1,3. </p>
+                            <p>Move to Previous element while playing: Previous thumb key.</p>
+                            <p>Move to Next Element: space+dots4,6.</p>
+                            <p>Move to Next Element while playing: Next thumb key.</p>
+                            <p>The context menus allow students to use the programs right away; and they include helpful shortcuts for frequently-used functions. </p>
+                            <p>Programs with context menus include Victor Reader, Contacts, Planner, Email, Internet, Word Processor, File Manager, and the Calculator.</p>
+                        </subsubsection>
+                        <subsubsection>
+                            <title>Reading the Tutorial</title>
+                            <p>Press space+T to open the Navigation menu; then press Enter to choose level 1.</p>
+                            <p>Press space+dots4,6 to move to the next section; audio reading will begin. You can pause by pressing Backspace+Enter, by pressing the Action button on the right edge of the machine, or by pressing space+G.</p>
+                            <p>Now, press space+dots1,3 to move back to Part One, Getting to Know the BrailleNote Touch.</p>
+                        </subsubsection>
+                        <subsubsection>
+                            <title>Navigating by Subsection</title>
+                            <p>Press space+T to open the Navigation level menu.</p>
+                            <p>Press space+dot4 to move down to level 2; then press Enter.</p>
+                            <p>Now, pressing space+dots4,6 moves through the subsections of Part One.</p>
+                        </subsubsection>
+                        <subsubsection>
+                            <title>Changing the Speech Rate in Victor Reader</title>
+                            <p>You can press Enter+dot6 to increase the speech rate.</p>
+                            <p>Press Enter+dot3 to decrease the speech rate.</p>
+                            <p>This allows students to choose the speed that is most comfortable for the material that they are studying.</p>
+                        </subsubsection>
+                        <subsubsection>
+                            <title>Creating a Bookmark in Victor Reader</title>
+                            <p>The shortcut for the Bookmark menu is Enter+M. Press Enter+M to open the Bookmark menu. Press space+dot4 to arrow down to the Insert Bookmark choice; then press Enter. You will be prompted to enter a number in computer Braille. For now, type a computer Braille 1, (dot2), and press Enter. You will be advised that bookmark 1 was inserted.</p>
+                            <p>To test the bookmark, press space+dots4,6 a couple of times to move away from the bookmark. Now, return to the bookmark as follows:</p>
+                            <p>Press Enter+M to open the Bookmark menu. Press space+dot4 to arrow down to the Go to Bookmark option and press Enter.</p>
+                            <p>Type a 1 using computer Braille; then press Enter. Now, when you press the Action button, reading will begin at the bookmark.</p>
+                            <p>The Rewind function. When you return to a bookmark, it is a good idea to rewind a bit so that the text at the bookmark will be read in context. Press the left panning key on the front edge of the machine to rewind, or press the right panning key for fast forward. You can press Rewind or Fast Forward while you are reading.</p>
+                        </subsubsection>
+                        <subsubsection>
+                            <title>Moving to a Heading in Victor Reader</title>
+                            <p>First, choose the heading level that you want. Press Enter+G for Options. Choose the Go to Heading option and press Enter. Enter a heading number and press Enter. Press the Action button to start reading.</p>
+                        </subsubsection>
+                    </subsection>
+                    <subsection>
+                        <title>Reading the MP3 tutorial.</title>
+                        <p>Press space+B for Bookshelf; then choose Other Audio. Press Enter on the BrailleNote Touch Mp3 tutorial. Press the Action button to start reading. When playing an Mp3 file, you can use the Next or Previous thumb keys to move forward or backward one file at a time.</p>
+                    </subsection>
+                    <subsection>
+                        <title>The User Guide</title>
+                        <p>The entire user guide for the BrailleNote Touch is available on the unit.</p>
+                        <p>Press space+O for Options.</p>
+                        <p>Press U followed by Enter to open the User Guide; KeyWeb will open.</p>
+                        <p>Press space+T until you get to the Links navigation level.</p>
+                        <p>Press space+dots4,6 to move to the "Access the Table of contents" link; then press Enter.</p>
+                        <p>You can now use space+dots4,6 to navigate through the table of contents. When you reach a section that you wish to read, press Enter. You can now press space+G to read through the text. When you wish to stop reading, press space+G to stop.</p>
+                        <p>When done reading the user guide, Press the Home button to return to the main menu.</p>
+                    </subsection>
+                </section>
+                <section>
+                    <title>Appendix C Writing Computer Braille</title>
+                    <p>The BrailleNote Touch uses the eight-dot computer Braille Table. Computer Braille is required when entering Email addresses, entering dates in the calendar, when entering passwords, and when using the calculator. When computer Braille is required, a dot8 will appear in the edit box. Press space+G to switch to computer Braille if it is required in other places. Return to literary Braille by pressing dot7-chord, (Backspace+space+G).</p>
+                    <p>When writing computer, words or character strings must be written without any contractions. To capitalize a letter, add dot7, (the Backspace key).</p>
+                    <p>Numbers are written as dropped Nemeth numbers without the number sign.</p>
+                    <p>The At sign is created by pressing dots4,7.</p>
+                    <p>The period is created using dots4,6.</p>
+                    <subsection>
+                        <title>Punctuation</title>
+                        <p>exclamation mark: "!" 2,3,4,6</p>
+                        <p>quote: """ 5</p>
+                        <p>pound: "$\#$ " 3,4,5,6</p>
+                        <p>dollar sign: "$\$$ " 1,2,4,6</p>
+                        <p>percent: "$\%$ " 1,4,6</p>
+                        <p>ampersand: "" 1,2,3,4,6</p>
+                        <p>apostrophe: "'" 3</p>
+                        <p>left paren: "(" 1,2,3,5,6</p>
+                        <p>right paren: ")" 2,3,4,5,6</p>
+                        <p>asterisk: "$\ast$ " 1,6</p>
+                        <p>plus sign: "+" 3,4,6</p>
+                        <p>comma: "," 6</p>
+                        <p>dash: " " 3,6</p>
+                        <p>period: "." 4,6</p>
+                        <p>forward slash: "/" 3,4</p>
+                        <p>colon: ":" 1,5,6</p>
+                        <p>semi colon: ";" 5,6</p>
+                        <p>less than: "\lc " 1,2,6</p>
+                        <p>equals: "=" 1,2,3,4,5,6</p>
+                        <p>greater than: "&gt;" 3,4,5</p>
+                        <p>question mark: "?" 1,4,5,6</p>
+                        <p>at symbol: "@" 4,7</p>
+                        <p>left square bracket: "[" 2,4,6,7</p>
+                        <p>back slash: "$\textbackslash$ " 1,2,5,6,7</p>
+                        <p>right square bracket: "]" 1,2,4,5,6,7</p>
+                        <p>carat sign: "$ \string^ $ " 4,5,7</p>
+                        <p>underscore: "\_" 4,5,6</p>
+                        <p>grave accent: "`" 4</p>
+                        <p>left curly bracket: "$ \{ $ " 2,4,6</p>
+                        <p>vertical bar: "$ \vert $ " 1,2,5,6</p>
+                        <p>right curly bracket: "$ \} $ " 1,2,4,5,6</p>
+                        <p>tilde: "$ \sim $ " 4,5</p>
+                    </subsection>
+                    <subsection>
+                        <title>Numbers</title>
+                        <p>These are written without a numeric indicator as they are Nemeth numbers</p>
+                        <p>"0": 3,5,6</p>
+                        <p>"1": 2</p>
+                        <p>"2": 2,3</p>
+                        <p>"3": 2,5</p>
+                        <p>"4": 2,5,6</p>
+                        <p>"5": 2,6</p>
+                        <p>"6": 2,3,5</p>
+                        <p>"7": 2,3,5,6</p>
+                        <p>"8": 2,3,6</p>
+                        <p>"9": 3,5</p>
+                    </subsection>
+                    <subsection>
+                        <title>Capital letters</title>
+                        <p>"A": 1,7</p>
+                        <p>"B": 1,2,7</p>
+                        <p>"C": 1,4,7</p>
+                        <p>"D": 1,4,5,7</p>
+                        <p>"E": 1,5,7</p>
+                        <p>"F": 1,2,4,7</p>
+                        <p>"G": 1,2,4,5,7</p>
+                        <p>"H": 1,2,5,7</p>
+                        <p>"I": 2,4,7</p>
+                        <p>"J": 2,4,5,7</p>
+                        <p>"K": 1,3,7</p>
+                        <p>"L": 1,2,3,7</p>
+                        <p>"M": 1,3,4,7</p>
+                        <p>"N": 1,3,4,5,7</p>
+                        <p>"O": 1,3,5,7</p>
+                        <p>"P": 1,2,3,4,7</p>
+                        <p>"Q": 1,2,3,4,5,7</p>
+                        <p>"R": 1,2,3,5,7</p>
+                        <p>"S": 2,3,4,7</p>
+                        <p>"T": 2,3,4,5,7</p>
+                        <p>"U": 1,3,6,7</p>
+                        <p>"V": 1,2,3,6,7</p>
+                        <p>"W": 2,4,5,6,7</p>
+                        <p>"X": 1,3,4,6,7</p>
+                        <p>"Y": 1,3,4,5,6,7</p>
+                        <p>"Z": 1,3,5,6,7</p>
+                    </subsection>
+                    <subsection>
+                        <title>Letters Lower Case</title>
+                        <p>"a": 1</p>
+                        <p>"b": 1,2</p>
+                        <p>"c": 1,4</p>
+                        <p>"d": 1,4,5</p>
+                        <p>"e": 1,5</p>
+                        <p>"f": 1,2,4</p>
+                        <p>"g": 1,2,4,5</p>
+                        <p>"h": 1,2,5</p>
+                        <p>"i": 2,4</p>
+                        <p>"j": 2,4,5</p>
+                        <p>"k": 1,3</p>
+                        <p>"l": 1,2,3</p>
+                        <p>"m": 1,3,4</p>
+                        <p>"n": 1,3,4,5</p>
+                        <p>"o": 1,3,5</p>
+                        <p>"p": 1,2,3,4</p>
+                        <p>"q": 1,2,3,4,5</p>
+                        <p>"r": 1,2,3,5</p>
+                        <p>"s": 2,3,4</p>
+                        <p>"t": 2,3,4,5</p>
+                        <p>"u": 1,3,6</p>
+                        <p>"v": 1,2,3,6</p>
+                        <p>"w": 2,4,5,6</p>
+                        <p>"x": 1,3,4,6</p>
+                        <p>"y": 1,3,4,5,6</p>
+                        <p>"z": 1,3,5,6</p>
+                    </subsection>
+                </section>
             </chapter>
             <chapter>
                 <title>BrailleSense -- IN PROGRESS</title>
