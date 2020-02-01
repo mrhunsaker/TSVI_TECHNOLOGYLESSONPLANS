@@ -3293,7 +3293,7 @@
                     </ol>
                 </section>
                 <section>
-                    <title></title>
+                    <title>BrailleNote Apex Skills Checklist - Teacher</title>
                     <table>
                         <tabular>
                             <row>
@@ -4344,6 +4344,8 @@
                             </row>
                         </tabular>
                     </table>
+		</section>
+		<section>T<title>BrailleNote Apex Skills Checklist - Student </title>
                     <table>
                         <tabular top="medium">
                             <row bottom="medium">
@@ -10979,6 +10981,4208 @@
             </chapter>
             <chapter>
                 <title>BrailleSense -- IN PROGRESS</title>
+                <section>
+                    <title> Braille Sense Skills Checklist </title>
+                    <table>
+                        <tabular top="medium">
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            Scoring Key
+        </line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            I
+        </line>
+                                    <line>
+            = independent
+        </line>
+                                    <line>
+            VC
+        </line>
+                                    <line>
+            = verbal cue(s)
+        </line>
+                                    <line>
+            PA
+        </line>
+                                    <line>
+            = physical assist(s)
+        </line>
+                                    <line>
+            X
+        </line>
+                                    <line>
+            = not worked on yet or
+        </line>
+                                    <line>
+            not
+        </line>
+                                    <line>
+            applicable (explain reason)
+        </line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                        </tabular>
+                    </table>
+                    <table>
+                        <tabular top="medium">
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            Braille Sense Skills
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line>
+            Date and
+        </line>
+                                    <line>
+            Evaluator
+        </line>
+                                    <line>
+            Initials
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line>
+            Score
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line>
+            Date and
+        </line>
+                                    <line>
+            Evaluator
+        </line>
+                                    <line>
+            Initials
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line>
+            Score
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line>
+            Date and
+        </line>
+                                    <line>
+            Evaluator
+        </line>
+                                    <line>
+            Initials
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line>
+            Score
+        </line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            Lesson
+        </line>
+                                    <line>
+            1
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            1.
+        </line>
+                                    <line>
+            Describe what the Braille Sense can be used for.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            Lesson
+        </line>
+                                    <line>
+            2
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            2.
+        </line>
+                                    <line>
+            Turn the Braille Plus on and off.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            3.
+        </line>
+                                    <line>
+            Locate the six Braille writer keys and the space.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            4.
+        </line>
+                                    <line>
+            Identify the backspace and enter keys.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            5.
+        </line>
+                                    <line>
+            Locate the four function keys.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            6.
+        </line>
+                                    <line>
+            Identify the scroll keys.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            7.
+        </line>
+                                    <line>
+            Locate the Braille display and cursor keys.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            8.
+        </line>
+                                    <line>
+            Locate where the power cord is plugged into.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            Lesson
+        </line>
+                                    <line>
+            3
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            9.
+        </line>
+                                    <line>
+            Use the scroll keys to move up and down the list of applications.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            10.
+        </line>
+                                    <line>
+            Use F! to go to the File Manager.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            11.
+        </line>
+                                    <line>
+            Move to the end (bottom) of a file list (space + 4 5 6).
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            12.
+        </line>
+                                    <line>
+            Move to the beginning of a file list (space with 1 2 3).
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            13.
+        </line>
+                                    <line>
+            Get help when needed (space + h).
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            14.
+        </line>
+                                    <line>
+            Adjust the speech rate (space + F4 or space + F1).
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            15.
+        </line>
+                                    <line>
+            Adjust the voice volume (backspace + F1 or backspace + F4).
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            Lesson
+        </line>
+                                    <line>
+            4
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            16.
+        </line>
+                                    <line>
+            Adjust the voice pitch (enter with F1 or enter with F4).
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            17.
+        </line>
+                                    <line>
+            Open a new word document.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            18.
+        </line>
+                                    <line>
+            Write in a document.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            19.
+        </line>
+                                    <line>
+            Use backspace to delete the previous character.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            20.
+        </line>
+                                    <line>
+            Use the enter key to begin a new line.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            21.
+        </line>
+                                    <line>
+            Read a document using the scroll keys.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            22.
+        </line>
+                                    <line>
+            Save a document (enter with s).
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            23.
+        </line>
+                                    <line>
+            Exit a document and return to the File Manager.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            24.
+        </line>
+                                    <line>
+            Check the time (enter with t).
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            25.
+        </line>
+                                    <line>
+            Check the power status (space with dots 1 6).
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            Lesson
+        </line>
+                                    <line>
+            5
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            26.
+        </line>
+                                    <line>
+            Insert the date into a document (enter with w).
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            27.
+        </line>
+                                    <line>
+            Jump to top of document (space with 1 2 3).
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            28.
+        </line>
+                                    <line>
+            Jump to end of document (space with 4 5 6).
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            29.
+        </line>
+                                    <line>
+            Use the cursor keys when necessary.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            30.
+        </line>
+                                    <line>
+            Use F2 to access word processor menu options.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            31.
+        </line>
+                                    <line>
+            Go back by level (space with e).
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            Lesson
+        </line>
+                                    <line>
+            6
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            32.
+        </line>
+                                    <line>
+            Open the utilities menu.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            33.
+        </line>
+                                    <line>
+            Perform basic functions involved with using the scientific calculator.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            34.
+        </line>
+                                    <line>
+            Obtain help and learn about the calculator.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            35.
+        </line>
+                                    <line>
+            Exit the calculator.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            36.
+        </line>
+                                    <line>
+            Set the Braille Sense time and date.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            37.
+        </line>
+                                    <line>
+            Use F3 for tab when needed.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            38.
+        </line>
+                                    <line>
+            Tab back when necessary (space with F3).
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            Lesson
+        </line>
+                                    <line>
+            7
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            39.
+        </line>
+                                    <line>
+            Open the Options Menu (space with o).
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            40.
+        </line>
+                                    <line>
+            Navigate through the options menu.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            41.
+        </line>
+                                    <line>
+            Make changes to the options menu.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            42.
+        </line>
+                                    <line>
+            Exit the options menu.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            Lesson
+        </line>
+                                    <line>
+            8
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            43.
+        </line>
+                                    <line>
+            Open the Address Book Manager.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            44.
+        </line>
+                                    <line>
+            Add and save an address record.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            45.
+        </line>
+                                    <line>
+            Search for an address record.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            46.
+        </line>
+                                    <line>
+            Move back and forward through address fields (space with 2 and space with 5).
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            47.
+        </line>
+                                    <line>
+            Modify a record when needed (enter with m).
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            48.
+        </line>
+                                    <line>
+            Delete an address record (space with d).
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            Lesson
+        </line>
+                                    <line>
+            9
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            49.
+        </line>
+                                    <line>
+            Open the schedule manager.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            50.
+        </line>
+                                    <line>
+            Add a new schedule (enter with i to begin).
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            51.
+        </line>
+                                    <line>
+            Turn check today’s schedule on or
+        </line>
+                                    <line>
+            off as needed.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            52.
+        </line>
+                                    <line>
+            Look up schedules as needed.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            Lesson
+        </line>
+                                    <line>
+            10
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            53.
+        </line>
+                                    <line>
+            Open the pronunciation dictionary.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            54.
+        </line>
+                                    <line>
+            Add a word to the pronunciation dictionary.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            55.
+        </line>
+                                    <line>
+            Search for a word in the pronunciation dictionary.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            56.
+        </line>
+                                    <line>
+            Modify a word as necessary.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            57.
+        </line>
+                                    <line>
+            Delete a word from the pronunciation dictionary.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            Lesson
+        </line>
+                                    <line>
+            11
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            58.
+        </line>
+                                    <line>
+            Open the web browser.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            59.
+        </line>
+                                    <line>
+            Move forward by link (F3).
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            60.
+        </line>
+                                    <line>
+            Move back by link (F3 with F4).
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            61.
+        </line>
+                                    <line>
+            Open a line (enter).
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            62.
+        </line>
+                                    <line>
+            Open a new url when in the browser (enter with u to begin).
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            Lesson
+        </line>
+                                    <line>
+            12
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            53.
+        </line>
+                                    <line>
+            Open the Bookshare or other site where books can be obtained.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            54.
+        </line>
+                                    <line>
+            Log in to site as needed.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            55.
+        </line>
+                                    <line>
+            Locate and download a book.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            56.
+        </line>
+                                    <line>
+            Unzip the book if using Bookshare.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            Lesson
+        </line>
+                                    <line>
+            13
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            57.
+        </line>
+                                    <line>
+            Find text (space with f).
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            58.
+        </line>
+                                    <line>
+            Find the next occurrence of a text string (enter with f).
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            59.
+        </line>
+                                    <line>
+            Replace text as needed (enter with r).
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            60.
+        </line>
+                                    <line>
+            Search forward or back from the cursor.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            Lesson
+        </line>
+                                    <line>
+            14
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            61.
+        </line>
+                                    <line>
+            Open the spelling checker (enter with k).
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            62.
+        </line>
+                                    <line>
+            Change the “range” of the spelling check as needed.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            63.
+        </line>
+                                    <line>
+            Complete the spelling checker accurately.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            Lesson
+        </line>
+                                    <line>
+            15
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            64.
+        </line>
+                                    <line>
+            Go to the previously opened document (space with b).
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            65.
+        </line>
+                                    <line>
+            Switch to the next “open” document (space with 4 5).
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            66.
+        </line>
+                                    <line>
+            Switch between open applications (F2 with F3).
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            Lesson
+        </line>
+                                    <line>
+            16
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            67.
+        </line>
+                                    <line>
+            Change the printer port setting as needed.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            68.
+        </line>
+                                    <line>
+            Print or emboss a document.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            69.
+        </line>
+                                    <line>
+            Handle hardware as appropriate.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            70.
+        </line>
+                                    <line>
+            Handle paper and re-filling tray when appropriate.
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                            <row bottom="medium">
+                                <cell left="medium" right="medium">
+                                    <line></line>
+                                    <line>
+            Total
+        </line>
+                                    <line>
+            Independent Score
+        </line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                                <cell right="medium">
+                                    <line></line>
+                                    <line></line>
+                                    <line></line>
+                                </cell>
+                            </row>
+                        </tabular>
+                    </table>
+                </section>
             </chapter>
         </part>
         <part>
